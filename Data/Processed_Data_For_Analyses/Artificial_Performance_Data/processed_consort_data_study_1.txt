@@ -1,0 +1,9 @@
+Condition Node_ID entered exited live rejected deleted Drop_Out Task_Block_Type
+FeedbackOnly task-1z9j 26 26 0 0 0 0 MainTaskBlock
+DiagramFeedback task-4i73 25 22 0 3 0 3 MainTaskBlock
+DiagramNoFeedback task-bl2b 27 26 0 1 0 1 AliceIntroBlock
+FeedbackOnly task-dpem 28 26 0 2 0 2 AliceIntroBlock
+DiagramNoFeedback task-ewi4 26 23 0 3 0 3 MainTaskBlock
+DiagramFeedback task-sndb 26 25 0 1 0 1 AliceIntroBlock
+PictureMapping task-vslc 27 25 0 2 0 2 AliceIntroBlock
+PictureMapping task-wkrm 25 22 0 3 0 3 MainTaskBlock

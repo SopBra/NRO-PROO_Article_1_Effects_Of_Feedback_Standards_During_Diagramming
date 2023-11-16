@@ -1,0 +1,25 @@
+Transition_Type Code Description Upper_Code_Level
+Transition_Check 0. "Total number of all transitions" NA
+Between_Diagrams 1. "Transitions between own diagram and standard" 0.
+Own_Correct_2_Standard 1.a "Correct box in own diagram - standard" 1.
+Own_Correct_2_Standard_Matching_Pos * * *
+Own_Correct_2_Standard_Matching_Pos_Only a "Correct box in own diagram - matching box position in standard" 1.a
+Own_Correct_2_Standard_Matching_Cont_Only a "Correct box in own diagram - matching content in standard" 1.a
+Own_Correct_2_Standard_Both_Matching a "Correct box in own diagram - matching position and content in standard" 1.a
+Own_Correct_2_Standard_No_Matches a "Correct box in own diagram - not matching box content or position in standard" 1.a
+Own_Correct_2_Standard_Matching_Cont * * *
+Own_Mistake_2_Standard 1.ii "Mistake in own diagram - standard" 1.
+Commission_2_Standard 1.b "Commission - Standard" 1.ii
+Commission_2_Standard_Incorrect_Parafrase * * *
+Commission_2_Standard_Position_Matching_Only b "Commission in own diagram - matching box position in standard" 1.b
+Commission_2_Standard_Wrong_Parafrase_Only b "Commission in own diagram - matching content* in standard" 1.b
+Commission_2_Standard_Both_Matching b "Commission in own diagram - matching position and content in standard" 1.b
+Commission_2_Standard_No_Matches b "Commission in own diagram - not matching box content or position in standard" 1.b
+Commission_2_Standard_Matching_Position * * *
+Omission_2_Standard 1.c "Omission - Standard" 1.ii
+Omission_2_Standard_Matching_Position c "Omission in own diagram - matching box position in standard" 1.c
+Omission_2_Standard_Mismatching_Position c "Omission in own diagram - not matching box position in standard" 1.c
+Own_Given_2_Standard 1.d "Given box in own diagram - standard" 1.
+Within_Diagram 2. "Transitions within diagrams" 0.
+Within_Own_Diagram 2.a "Within own diagram" 2.
+Within_Standard_Diagram 2.b "Within standard" 2.

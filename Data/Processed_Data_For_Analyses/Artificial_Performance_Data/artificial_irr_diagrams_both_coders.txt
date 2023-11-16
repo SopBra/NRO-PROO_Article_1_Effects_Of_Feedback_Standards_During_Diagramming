@@ -1,0 +1,189 @@
+Participant_ID Trial Position Response Word_Count Correct_Coder_1 Element_Number_Coder_1 Commission_Coder_1 Correct_Coder_2 Element_Number_Coder_2 Commission_Coder_2
+3417530 Suez DiagBox2 ? 0 2 4 1 2 4 1
+3417530 Suez DiagBox4 ? 0 2 4 1 2 4 1
+9627535 Suez DiagBox1 "iLR QLNd ELUWHx nAGv y44AYL 69JwtQ VgIi Ct9Kk dt8G Ohv FAU38 qgwM npk1 69Wpu HyWn" 15 2 4 1 2 4 1
+9627535 Suez DiagBox2 "IdiaJq WL7eB5 pBfRY8 M5TbmN" 4 2 4 1 2 4 1
+9627535 Suez DiagBox3 "Svoe gJVnG pMZ hXPqc 41g L2yi eE6WaR SZI" 8 2 4 1 2 4 1
+9627535 Suez DiagBox4 "9c5 LndN uJkL ZONQ RtjL rXiIC pDo78z" 7 2 4 1 2 4 1
+5934944 Beton DiagBox3 "9I4EPE 73srM cpDc hBf8 iqCM RUwW Nawo4Z vMgMG GGqTuX sM8Z" 10 2 4 1 2 4 1
+5934944 Beton DiagBox4 "2LOfON vlzG6 cRnX KrkL" 4 2 4 1 2 4 1
+1951490 Beton DiagBox1 "S838U m3Lpx v38Xw Zjh tEH y5C9 P4kN XY7oB qDh665 3IYggO vqvf x2Cz 5sV6m EFq tBfu v4hl7 px2B8" 17 2 4 1 2 4 1
+1951490 Beton DiagBox2 "hKP3 fNuZpO NU8z2 pAq3D gVa" 5 2 4 1 2 4 1
+1951490 Beton DiagBox3 "1vxK1g E5K 4Nn0 4MOPA o5Ir ICuY43 yuU" 7 2 4 1 2 4 1
+4923840 Botox DiagBox1 "C9OZ kJhm Tf2 dKhai 1QgMPX mayw7 4XiJC WcI" 8 2 4 1 2 4 1
+4923840 Botox DiagBox3 "B73Jkx SzzXL ORoN eIvW ColC1 Hl1hEY NUspML 7uaN79 kiQvP" 9 2 4 1 2 4 1
+4923840 Botox DiagBox4 "ZGo9N ZUVkQ yHW5kX LId LIO G10Dz" 6 2 4 1 2 4 1
+5962975 Beton DiagBox1 "xNi4L 5glL FrZ hED Tnof IH96 4FBZ xdSTS GaVk3U ZAs6M" 10 2 4 1 2 4 1
+5962975 Beton DiagBox2 "j5gY gNU UYX MhM p0w6 Jzuizw umbu aMc m9LOg8 RTiJJ L6bUH9 tA7N9" 12 2 4 1 2 4 1
+5962975 Beton DiagBox3 "hog 9cmV9 CxE mJST X8o" 5 2 4 1 2 4 1
+5962975 Beton DiagBox4 ? 0 2 4 1 2 4 1
+5962975 Suez DiagBox1 "olY JWV ZnP VLE9 kdHXv8 8Ue8u Pn7NE" 7 2 4 1 2 4 1
+5962975 Suez DiagBox2 "NVOvf au23OG 36hA k92I YPUZ Ets esI Ei2k" 8 2 4 1 2 4 1
+8060200 Botox DiagBox1 "IlBz z1kO 16giBM XPNzm PaUN5 96bT6M" 6 2 4 1 2 4 1
+8060200 Botox DiagBox3 "VW48 fF4IQi m27V2 iewRb" 4 2 4 1 2 4 1
+8013348 Geld DiagBox2 "gxgj TwAQ l7P P6OIr lM1ofs v09md SIxW MSZ iOx 41O x13G g0O0Ji" 12 2 4 1 2 4 1
+8013348 Geld DiagBox3 "k0Gv1o qG8V MR52d uVg akfB5A DqiS4" 6 2 4 1 2 4 1
+8013348 Muziek DiagBox1 "7AohA W3Y12 mmssV wyM 7RjV8 fYZ HfJNhP NXrD LAxE" 9 2 4 1 2 4 1
+5254136 Botox DiagBox1 "cSrC9a 2Ipe uZL5tW eag3 ap0B 2rcI1 lQGVgU Lyz i12 6GY 0eovnv" 11 2 4 1 2 4 1
+5254136 Botox DiagBox3 "YDSU 4gSkD TK54k5 84eoG jL0 yJ57a xXazp QDJ4T jduj 316hW jGzZs gFqO" 12 2 4 1 2 4 1
+5254136 Botox DiagBox4 "5AaHmF nbVUZ qI4 SGxWw" 4 2 4 1 2 4 1
+3017711 Beton DiagBox2 "0NCoqB dZf yrmH1 dluPb5 L8OQa zWV iL4wU 9Cijsi qEi OeT TKjig kq4 RVngs" 13 2 4 1 2 4 1
+3017711 Beton DiagBox3 "73FbT6 Scb skvM3Q EI8CG1 vuPpK lipg VKvJe SkP 3QtHd roepEx ay2 WyXLmm nAj6Bt 4ZqY QpNI" 15 2 4 1 2 4 1
+3017711 Beton DiagBox4 "7EJ xLo n63hnD JFv Wtx E1ICFT zIkgD NMfi m6N3x4 DkHr5U" 10 2 4 1 2 4 1
+1677988 Metro DiagBox1 "G9OqX 7hw nlK6iy 7y6g U0qO S7OlY RhAip IQgthh" 8 2 4 1 2 4 1
+1677988 Metro DiagBox2 "TmMsR fUHBP p3p61 rOKne QC4W1 JROpTG" 6 2 4 1 2 4 1
+1677988 Metro DiagBox3 "ILR7i XEOT W4lWDU Tcu ZxsAS HhY3 XTa QBB2l bkCq0 yz5V nCXpsV JuF ucv XDv" 14 2 4 1 2 4 1
+1677988 Metro DiagBox4 "cTe8Gh AG1am Oe5 793aW PSs" 5 2 4 1 2 4 1
+2407233 Geld DiagBox1 "GyC4i mdVdvY CvYui jiC hQ5 NmNr wBm0ys 0kZP zJsYGw" 9 2 4 1 2 4 1
+2407233 Geld DiagBox3 "eAvo BbE PRFL Jii oP6i FAKC S1H" 7 2 4 1 2 4 1
+2407233 Suez DiagBox1 "Q655Ow ZZY mAycG Si5DCv OBtR NAby p3JMQ fjez fQPTzD" 9 2 4 1 2 4 1
+2407233 Suez DiagBox2 ? 0 2 4 1 2 4 1
+2407233 Suez DiagBox3 "5e7nj ieCVD UF9bQ QMtq bbbR Ymz b9Hcd OfEdPy ah9 1wL lPl tvAHBn 2ejn JaZaeR uPPC" 15 2 4 1 2 4 1
+2407233 Suez DiagBox4 "0hN fqx TIqznM dfZjrM 4Uh5bl FwU2kY FHX3 9UQ" 8 2 4 1 2 4 1
+7035441 Suez DiagBox1 "bgGHxQ ZHL iH3VF vwI3 X2Ba0u OUYom1 eGP0 bQW 3Pg 3cednw" 10 2 4 1 2 4 1
+7035441 Suez DiagBox2 "jPwmC Csedzo wMW2N iUDnc CVQ" 5 2 4 1 2 4 1
+7035441 Suez DiagBox3 ? 0 2 4 1 2 4 1
+2330287 Beton DiagBox2 "XT5 Ggg b0tb ypaWzX 9nB7t7" 5 2 4 1 2 4 1
+2330287 Beton DiagBox3 "agY QJ1HrI h6H qeZnN" 4 2 4 1 2 4 1
+2330287 Beton DiagBox4 "HUvLA1 aQlD 0xsBO 1UE T70MB ZtiZrd Mh6Q Dyf btk7 u1i5Hv flDh" 11 2 4 1 2 4 1
+7205621 Botox DiagBox1 "G6ccg aLm xEYgt" 3 2 4 1 2 4 1
+7205621 Botox DiagBox3 "whHIgM ulJqZ w7x vnuz H5urj eedo uy0" 7 2 4 1 2 4 1
+2495352 Metro DiagBox1 "GBA NJTqJ jhH Ghh v4NV 0Wf1" 6 2 4 1 2 4 1
+2495352 Metro DiagBox2 "ccOiGh kGGN cca zD2I Sapc" 5 2 4 1 2 4 1
+2495352 Metro DiagBox3 "Rdm PhqcK uCOHN w2e UYJOe GbHF" 6 2 4 1 2 4 1
+6389245 Suez DiagBox1 "FyiXVL ZMQ1j 6vnyj cclCpk 1Lt Zjg pVGhOK" 7 2 4 1 2 4 1
+6389245 Suez DiagBox3 "7X9W r84g Kc9qs nESVR lIsLjz SlvyG" 6 2 4 1 2 4 1
+3813665 Botox DiagBox3 "MjPJM QZK DVOW 7jSI 6Km8 p6ZQ4 m0rOa tLl fVHH lHEKeR 8BCiy 6PBX lUPIM aIvSO 9I37" 15 2 4 1 2 4 1
+3813665 Botox DiagBox4 "kEGe 7XI UYq0H wzK CBu6 8zvcm caOyp 8saI Ejebp Wj3" 10 2 4 1 2 4 1
+5056135 Metro DiagBox1 "sJj EFQ 6dgTQf" 3 2 4 1 2 4 1
+5056135 Metro DiagBox3 "JrGAe iMld5 NEv qKk1HT Lt0 tdr5G ZeKh 2qiEI 3Tk uUtT Y9A Jo5dE4 MyX9x WkLu7 F5I Bzm" 16 2 4 1 2 4 1
+5056135 Metro DiagBox4 ? 0 2 4 1 2 4 1
+1025108 Suez DiagBox1 "NkP wKCVF l5Ei9" 3 2 4 1 2 4 1
+1025108 Suez DiagBox2 "dcbltG N5YD5U n2kMX 1kg5 UQDe fGkL" 6 2 4 1 2 4 1
+8497253 Botox DiagBox1 "8Ju1 kKpD IaexG" 3 2 4 1 2 4 1
+8497253 Botox DiagBox2 "NwdP yoo sUi cqdp5k r4H" 5 2 4 1 2 4 1
+8497253 Botox DiagBox4 "dgl ipg ouhCzm G7w Zcxo1K WWU" 6 2 4 1 2 4 1
+3966443 Geld DiagBox1 "U5BXI MNV9 HO5wCf 1Rb khey cbeVt YTRs MHv bfhA51 LDaa voPiC VYO OdU EfNj7 Thi BoY7KS mXm6B 8Nlyk" 18 2 4 1 2 4 1
+3966443 Geld DiagBox2 ? 0 2 4 1 2 4 1
+3966443 Geld DiagBox3 "GLlz xLFBwe IeEEF 8eUGV Qo45VU 6q2H 9IuE ZVJ6Y M2ta zEEZZ UyA T16cb" 12 2 4 1 2 4 1
+3966443 Geld DiagBox4 "OPnMow BVo i6pYkP Jay S7MQd qDAYrO hMWKZ" 7 2 4 1 2 4 1
+8386397 Geld DiagBox2 "GeGE J9zqDe unx7 x8l9" 4 2 4 1 2 4 1
+8386397 Geld DiagBox3 "WYshEK IjEJ U8Zfil 2kVG HKU8GY kOJQ3 kB5" 7 2 4 1 2 4 1
+8386397 Geld DiagBox4 "RrZpR 8FN0js Lf84 wjLvXb lDLp3 cRyMUf 2Z4E V1h nCU4wU x0BO" 10 2 4 1 2 4 1
+7813495 Botox DiagBox1 "94hYQA 2pf Ubq kFU scXLD 67k yM0epr rKT" 8 2 4 1 2 4 1
+7813495 Botox DiagBox3 "jOvz Hj3zA Cq1w 8pLHiJ qlY rU1I3 tKe LbS7 F86etU" 9 2 4 1 2 4 1
+7813495 Botox DiagBox4 "32d PQYGDd U18t Jj4cN r0whWp UD1" 6 2 4 1 2 4 1
+9932636 Suez DiagBox1 "LfGF bGxu wSI6Z" 3 2 4 1 2 4 1
+9932636 Suez DiagBox2 "9Zj5 tCZV7Q LYyJ FhdLU 92zBeN" 5 2 4 1 2 4 1
+2165250 Beton DiagBox1 "Hgn2 veBl XCI E7P" 4 2 4 1 2 4 1
+2165250 Beton DiagBox2 "KnTcUF w83J7c NMM0 lFancd XIg Ec4z3" 6 2 4 1 2 4 1
+2165250 Beton DiagBox3 ? 0 2 4 1 2 4 1
+2165250 Beton DiagBox4 "gDrna AxdG OaUdNS P8dhL jGh6 WXu YGBAR SbS9 p0gVn zfYo" 10 2 4 1 2 4 1
+7742744 Beton DiagBox1 "6Cls gAUQ 7ao xuln VDTLHY aXM bzm4ls" 7 2 4 1 2 4 1
+7742744 Beton DiagBox2 "weHA xpI2Q OoO4 y7tu DEwZ KiHUj QMlHy pOW PEV TtvJ" 10 2 4 1 2 4 1
+7742744 Beton DiagBox3 "Jp2P O6nb mg9 GUVuKi RGMZl WHHyT ZYBp 3WM K1Wo8 vXY" 10 2 4 1 2 4 1
+6748813 Muziek DiagBox1 "peRS fN9gb l1t0t Wqs3 qSiMM ok8Uhd" 6 2 4 1 2 4 1
+5945350 Beton DiagBox1 "o3hAcn pmKo jqn7kw Tpg U50 rcM8d0" 6 2 4 1 2 4 1
+5945350 Beton DiagBox2 "iYm e7vqs RPtuMZ trdT 0wb JwEd2V" 6 2 4 1 2 4 1
+5945350 Beton DiagBox3 "0Vdy du6elq 1aJlDz yOTA NqM3D zdog 67inX" 7 2 4 1 2 4 1
+5945350 Beton DiagBox4 "GT2 5NXVa2 KeNY S06Lg 5T3OUA kZGn" 6 2 4 1 2 4 1
+2523774 Geld DiagBox4 "aI7SA aDC V4U3aV 6zFh65" 4 2 4 1 2 4 1
+1218243 Metro DiagBox1 "GTT7OJ wHt Vnj5v 5sO1uS 8AoUg" 5 2 4 1 2 4 1
+1218243 Metro DiagBox2 "Z8f ILL4d NTM Ez3" 4 2 4 1 2 4 1
+1218243 Metro DiagBox3 "ANB tSxyK 7qL8Y 32bE6l" 4 2 4 1 2 4 1
+1218243 Metro DiagBox4 "j6FX pNdr eaJd5 z6dsp oNrBY BtJa Q4q 6cv uJ6XPK t3Sb ZQxoSs" 11 2 4 1 2 4 1
+3380474 Muziek DiagBox1 "LE5Z BzkUF hCNeUr 0S0m VuE QzC" 6 2 4 1 2 4 1
+3380474 Muziek DiagBox2 "MPNy1 avns 36tnnG 2Nt6 1of CEeT IUIT jQafO Md1R 3Sm dfG7M OSw eCk6p" 13 2 4 1 2 4 1
+9409512 Suez DiagBox3 "3HXja zEqhE eQv0D jnF IMEL a0po4" 6 2 4 1 2 4 1
+7721456 Metro DiagBox1 "NMbSXQ OP4 fkj" 3 2 4 1 2 4 1
+7721456 Metro DiagBox3 "MgZuV km7vJk 4AERD z2iNQ 5AB 8m4weq Y9kT Qp1vv XVK 19eUST 9R4Wd1 rwTja Fw8G" 13 2 4 1 2 4 1
+7677115 Metro DiagBox1 "65QNwc lg31 ZmJg yGyvZ bLwut 7OV Mrcn4 3wqiO IxCGD 8JFl4B iop86 lk3G" 12 2 4 1 2 4 1
+7677115 Metro DiagBox2 "HBS zrwMw IFm RKD3Vq bEm 3HdO xmduF" 7 2 4 1 2 4 1
+7677115 Metro DiagBox3 "FlelL 1V9 hzCW Gr5uj5 Y0N" 5 2 4 1 2 4 1
+7677115 Metro DiagBox4 ? 0 2 4 1 2 4 1
+7599446 Suez DiagBox2 "Ioy n809mt RPJ KRyn faup KM3d i63jY QUWz aMVy GL6t e8h KYYIje up2" 13 2 4 1 2 4 1
+7599446 Suez DiagBox3 "MPepcj mAN Y5q RIuTF Yoav87 JLzng 1FM vZercB" 8 2 4 1 2 4 1
+7599446 Suez DiagBox4 "mEwR TR3ZXD F0cocG omZT YOtlE GnVmze" 6 2 4 1 2 4 1
+7469510 Muziek DiagBox1 "9ZwO Re1eZk qQGP TIx1 BP5x tQVLcv Pw8UJf NN5m P0vSN" 9 2 4 1 2 4 1
+4631715 Beton DiagBox3 "WZq1FH EzsBHq XyfkZ xkQgS KUWIkj YFzOr 660g wDO0vQ hqj QHgfLN CG9Sv" 11 2 4 1 2 4 1
+4631715 Beton DiagBox4 "fk6aW 9es7R iQph rTCB9 nw9LO R293 ToD GB5 RwSuS NaQxKR 3Cw Gv62P mmP bf3 67a" 15 2 4 1 2 4 1
+1192850 Botox DiagBox1 "wo7d4 cvXv 508e" 3 2 4 1 2 4 1
+1192850 Botox DiagBox2 "BK3f4j DeruD Go2E sHa n5O wFB gJW3f" 7 2 4 1 2 4 1
+1192850 Botox DiagBox3 "vLWEo qebO gORz taEeIs z5Jnj TV9tz m5TE jAW kuk KMp 1EI" 11 2 4 1 2 4 1
+1192850 Botox DiagBox4 "F10 yleWBc PZZ OOE OjkG2T tsXk QT9NDA A1LC N6aWl IAP2iv ryEsa cQSx" 12 2 4 1 2 4 1
+8605590 Geld DiagBox1 "aSXx 9nR QymkuW 3htdb VDq L0Rl lZS UKK6yc 6m1P ZV7 KqOa1 1SI H65" 13 2 4 1 2 4 1
+8605590 Geld DiagBox2 "LIZ BHJo2s g5TF zR985 eIjKZc d05ti 3uGJTD zkf uKr3j MPTQ 4lzDS T64fj r2UrG jZSW" 14 2 4 1 2 4 1
+8605590 Geld DiagBox3 "iFaCy oS4teD loJ9ez SdYs At9" 5 2 4 1 2 4 1
+7860363 Metro DiagBox1 "hArNI mLF5db jM8 YclxI" 4 2 4 1 2 4 1
+7860363 Metro DiagBox4 "5eDqP8 8OdzZ PZEW koKTkd mAMI P9t3 lmbzb x8r8w cAq ynBf7" 10 2 4 1 2 4 1
+7029694 Botox DiagBox1 "Zyzu AISNj 8Q1 ca3 veOqc pzt CPj 8Bc Ts2Jo ssr" 10 2 4 1 2 4 1
+7029694 Botox DiagBox3 "djD4 mJFiI DRJBb mILM wbka 36iR3 P7K 5GKR8O ePUep1 if7 Keonz VuFLe" 12 2 4 1 2 4 1
+7029694 Botox DiagBox4 "b6Pfo 5zRJ rJYf pkjg ybv AGA nnqvCt ugV tgp56 SGs6 OMJr9" 11 2 4 1 2 4 1
+3417530 Suez DiagBox1 "59YDxc LmI FpohR 2nXU7 x8vQ" 5 1 2&3 0 1 0 0
+3417530 Suez DiagBox3 "deDb y8t6 R3hD IULu xpLaXb CUX2 EIJ Twv sMTkD SwT z8whk 5LWbM vuf Bjg GQMDTl cFAfvc" 16 2 NA 1 0 NA 1
+5934944 Beton DiagBox1 "3XqFze MO3vr lKZ Vbo" 4 0 NA 1 0 NA 1
+5934944 Beton DiagBox2 "jn5 sKa z3Ajs A4Dd sj6 K5X0hH ncE59" 7 1 3 0 1 1&3 0
+1951490 Beton DiagBox4 "PE2343 CWh lAQDqj MNzE ImLVLb" 5 0 NA 0 0 NA 0
+4923840 Botox DiagBox2 "9ar vbr BbTxGt xxZvus kCJu Fsx0 flg kCUDR 9y1dA zWl ZIDW" 11 1 NA 0 1 NA 0
+5962975 Suez DiagBox3 "kbT05 fFUxV Bj2HB j61oRT 2Zdsve XaUBe FTtpwn 2JIbh pFJ 0vuW1 xY71E KbpwHF hvw" 13 0 NA 1 0 NA 1
+5962975 Suez DiagBox4 "53q YaIUlZ zenOc 1mHw xUvq yuSCPO 7WbUm slx6r Vh9n fHd" 10 0 NA 1 0 NA 1
+8060200 Botox DiagBox2 "dGRoSU ONCMSF 0fbSdI" 3 1 NA 0 1 NA 0
+8060200 Botox DiagBox4 "OvF AIU" 2 0 NA 0 0 NA 0
+8013348 Geld DiagBox1 "URlsm Lzw NlASN mwpP0c 8A9P eDci kMifxV 2OZux6 eDT 8tL3Zl 84SLj" 11 1 NA 0 1 NA 0
+8013348 Geld DiagBox4 "m1XZ Ua3y G9AM AXxCQ iLEEt 9dwSxl 7aH JlHVQ agoVhB" 9 0 NA 0 0 NA 0
+8013348 Muziek DiagBox2 "cM0v3 cDv 2a6 9LQ" 4 1 4 0 1 3 0
+8013348 Muziek DiagBox3 "rFnWCW WZj aOO gwD ZLLEMH" 5 1 0 0 1 1&2 0
+8013348 Muziek DiagBox4 "Ch1gy kFqF" 2 0 0 1 0 3&4 2
+5254136 Botox DiagBox2 "6Jnyw E0N 6EWZ2B YiRQM rUJiI I55 qIVwQ e8t ioP" 9 0 NA 0 0 NA 0
+3017711 Beton DiagBox1 "xigo VwrYh yx2i1r g65t e1f8 MXeDB TL9Pj WxduM 7lcMcK" 9 1 NA 0 1 NA 0
+2407233 Geld DiagBox2 "o2c23d TQ10s" 2 0 NA 1 0 NA 1
+2407233 Geld DiagBox4 "aNS8J 6Uth GzZ FCIWmd G8R" 5 1 3 0 1 3 0
+7035441 Suez DiagBox4 "XZE2 r5sbw 3yw8 8pfv oauV wn5DT1 fieZa ofZ uDuC 074TtB" 10 0 NA 1 0 NA 1
+2330287 Beton DiagBox1 "SHP1 YQ3 cW0 gcnH8u" 4 0 NA 1 0 NA 1
+6630813 Muziek DiagBox1 "YkCY 1EXtm pMP TRll8z" 4 2 2&5 3 3 3C 4
+6630813 Muziek DiagBox2 "jeeJ dEmlTP v9hOdQ kuLXrJ GPe f6Awt2 5g0ll9 8YL6c bIeH W3uL W50hP 7kTc CPznm 6KnBxQ" 14 0 5 1 0 3B 1
+6630813 Muziek DiagBox3 "vwS3d laHO ZoT Jh2I CV0Ig" 5 1 0 0 1 3A 0
+6630813 Muziek DiagBox4 "Cfeiz eNHgA ZJjm VYsiY z1VCz6" 5 1 1&2 0 1 1&2 0
+7205621 Botox DiagBox2 "mgdhml MQDIee uA5P0 PNY SfJcqR 0s7a8" 6 0 NA 0 0 NA 0
+7205621 Botox DiagBox4 "2BxHLS Mdxu lSPm SCY 4QH6Kq N53r" 6 0 2 4 0 2 0
+2495352 Metro DiagBox4 "Hor7 drabS" 2 0 NA 0 0 NA 0
+6389245 Suez DiagBox2 "aICQ2 RKw7iL ebmjt" 3 4 1&2 0 1 1&3 0
+6389245 Suez DiagBox4 "KJqrxk hxB0 jHcK QtX0" 4 3 1 0 0 NA 0
+3813665 Botox DiagBox1 "YyQpc 1nc C6Wi yOgRVZ vaGF3 smj HIb Xb4c" 8 0 NA 0 0 NA 0
+3813665 Botox DiagBox2 "Dlr xo5D Zg4PS 60SVfS cnmAJ apO BCVQh" 7 3 NA 4 2 NA 1
+5056135 Metro DiagBox2 "75mK G8lcyi dI25c Zc8 YUn5n" 5 0 NA 1 0 NA 1
+1025108 Suez DiagBox3 "iNBCa re4T 0rVK yUq3XZ g49 pDOVV" 6 0 NA 0 0 NA 0
+1025108 Suez DiagBox4 "1SV 9os yUUM LTta 5j95" 5 0 NA 1 0 NA 1
+8497253 Botox DiagBox3 "w7ydO IA0d3C 9bZdbW" 3 0 3 0 0 3 0
+8386397 Geld DiagBox1 "S69wr DtK 8Xx pK49 IncRWk" 5 1 NA 0 1 NA 0
+7813495 Botox DiagBox2 "tV0xnM JsMw0 CGw7Qp WYir4z wycg RPFn4P DVo AkGQYe HNP" 9 0 NA 0 0 NA 0
+9932636 Suez DiagBox3 "nasJ6 aJRa Bjjl7 9g1h" 4 0 NA 1 0 NA 1
+9932636 Suez DiagBox4 "GRVrQ 0b5mOk HBMJ 8bG vRhu Lpt z2xy8 8Kt3 FZ5opG Ms8 PePaU JMR" 12 1 NA 0 1 NA 0
+7742744 Beton DiagBox4 "pRO80Z 86r YTwoTd 4aaH2x kTynf7 l2PqRA gvc3 bCShkE" 8 0 NA 0 0 NA 0
+6748813 Muziek DiagBox2 "P1rJF RL1or9 RFiws 1iV qw53y oZ7" 6 1 2&5 0 1 5 0
+6748813 Muziek DiagBox3 ? 0 1 3&4 0 1 4 0
+6748813 Muziek DiagBox4 "ZLwds QiMqS 9R18M IpLMib kaM" 5 1 NA 0 1 NA 0
+2523774 Geld DiagBox1 "2ozu1 r57 UaPpg 0oV FePd" 5 1 NA 0 1 NA 0
+2523774 Geld DiagBox2 "8iZZ9 RsfyCq wfbEge Bt9 ZxGq9 gH20aj vLM IHg3B QtRh metH 5egW8 fb0Vz Nux8y KS7Hp" 14 0 NA 1 0 NA 1
+2523774 Geld DiagBox3 "zYY Zgaf oS7sB wtx73E rdovtt" 5 0 NA 0 0 NA 0
+3380474 Muziek DiagBox3 "tun5 72Up e6avAY" 3 1 2&3 0 1 1 0
+3380474 Muziek DiagBox4 "rOM trSp e2RHoN s87 Ab0Z kUdG 5Oxe l7MJ HlP" 9 0 NA 1 0 NA 1
+9409512 Suez DiagBox1 "aVO UgJ teet h57j9T Xier qzn4G hDc" 7 0 NA 1 0 NA 1
+9409512 Suez DiagBox2 "YpvPs4 ORM PgV10 o62ZgE ecvouu BcGgcq Go5IrL VlA7Gh XLoy6Y LvXIs" 10 1 2&3 0 1 1&2 0
+9409512 Suez DiagBox4 "oHME qsE3o8 15A9 E9UpDc z0ih1 nWd8 jAgg mLh3 5zsj7 LmG6 Rd1c ATGS 0SXo qXXwNc xt0388" 15 0 NA 0 0 NA 0
+7721456 Metro DiagBox2 "Jxnt kWCA e49GU Sbt9 24c6 pYwM pexv j0YfR 7GhlfG 5M0PIH dKJo 57WoF" 12 1 NA 0 1 NA 0
+7721456 Metro DiagBox4 ? 0 0 NA 1 0 NA 1
+7599446 Suez DiagBox1 "unDd kqf nmd05J l4Xv 83iSt PgUuH vvpWyG" 7 0 NA 1 0 NA 1
+7469510 Muziek DiagBox2 "aXm TuiCl8 E5dC BiK tGE u3Qptd jEh 7p2hsh lGJuI" 9 1 0 0 1 2&5 0
+7469510 Muziek DiagBox3 "yQa JonB tB3Pd QXzudA oxc wKNH 94jMmE" 7 1 3 0 1 3 0
+7469510 Muziek DiagBox4 "cYj5nd co9V EbMXf ozBJd n5nid 1XikB Ijx j0Qig" 8 1 NA 0 1 NA 0
+4631715 Beton DiagBox1 "Awdub Y2NwtY PB1s9 NXnx8" 4 1 NA 0 1 NA 0
+4631715 Beton DiagBox2 "2Bbx 3OWgPh Dv5p6x A45xl TLwrR tMSkhf 79d99 CKx jw9 Q3T whzbK N0Of4K" 12 2 5 0 2 4 0
+8605590 Geld DiagBox4 "8ou0b YieNa 99L u5B6Xm UtH bQ9l 32Du fOwa Zq1p" 9 1 3 0 1 3 0
+7860363 Metro DiagBox2 "8Eyyo pxCaT O22y9S hgFU6 JH7eCc R3CrA sCFWBM Q9kcAn RM55J5 jwBK9 JB0r l2Hk6 ST6ytu wlY" 14 1 3C 0 1 5 0
+7860363 Metro DiagBox3 ? 0 0 NA 1 0 NA 1
+7029694 Botox DiagBox2 "Jwe OSXuUh fA7t8M" 3 0 NA 1 0 NA 1
+6768069 Muziek DiagBox1 "hrdF6 T6oKw FarHlI CRYPco" 4 0 5 0 0 1&3 0
+6768069 Muziek DiagBox2 "NOkH5 TrRVIU 3C12G SyUei iOFW LtJ Jbf1T Vbyga 1Gc yJY KXKd09 eBS Z8pUn 1QCsCy z8K" 15 1 4 0 1 2&3 0
+6768069 Muziek DiagBox3 "G9i ssKRi 5O93" 3 1 3 0 1 2 0
+6768069 Muziek DiagBox4 "5Hdb cMn lxUh1n 8y9nq qFA" 5 1 0 0 1 3C 0

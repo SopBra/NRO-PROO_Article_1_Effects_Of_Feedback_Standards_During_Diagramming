@@ -1,0 +1,31 @@
+Trial	AOIname	Content	ElementNumber
+Beton	BetonFeedBox1	Er zit meestal een centrale verwarming in gebouwen	1
+Beton	BetonFeedBox2	Beton van deze gebouwen kan uitdrogen	2
+Beton	BetonFeedBox3	Gebouwen worden dan kleiner	3
+Beton	BetonFeedBox4	Liften blijven hangen	4
+Beton	BetonFeedBoxGiven	Een lift renovatie is nodig	Given0
+Botox	BotoxFeedBox1	Verkrampte spieren worden verdoofd en ontspannen	1
+Botox	BotoxFeedBox2	Rimpels tussen ogen en voorhoofd die door verkrampte spieren zijn ontstaan verdwijnen	2
+Botox	BotoxFeedBox3	Gezichtsuitdrukking kan veranderen	3
+Botox	BotoxFeedBox4	Mensen kunnen er jonger uitzien	4
+Botox	BotoxFeedBoxGiven	Botox blokkeert aanspanningssignaal tussen zenuwen en huid	Given0
+Geld	GeldFeedBox1	Mensen moeten niet te lang afgeleid worden door gevaar	1
+Geld	GeldFeedBox2	Iemand kan slechts kort diep geluk of ongeluk ervaren	2
+Geld	GeldFeedBox3	Mensen wennen snel aan luxe	3
+Geld	GeldFeedBox4	Geld maakt niet gelukkig voor lange tijd	4
+Geld	GeldFeedBoxGiven	Lottowinnaars zijn vaak niet lang gelukkig	Given5
+Metro	MetroFeedBox1	Afval hieft niet op de andere manier verwerkt te worden	1
+Metro	MetroFeedBox2	Kunstmatig rif is aangelegd	2
+Metro	MetroFeedBox3	Meer plankton en zeefauna	3
+Metro	MetroFeedBox4	Meer vissen (zoals makreel, baars en zeevissen) worden aangetrokken	4
+Metro	MetroFeedBoxGiven	Rode metro wagons tot zinken gebracht	Given0
+Muziek	MuziekFeedBox1	Gebruik verschillende hersengebieden	1
+Muziek	MuziekFeedBox2	Verbetering wiskunde vaardigheden	2
+Muziek	MuziekFeedBox3	Kan helpen oude herinneringen terug te halen	3
+Muziek	MuziekFeedBox4	Hogere scores op IQ test	4
+Muziek	MuziekFeedBoxGiven	Muziek leren, lezen en spelen	Given0
+Suez	SuezFeedBox1	Geen natuurlijke verbinding tussen de Atlantische en Indische Oceaan	1
+Suez	SuezFeedBox2	Schepen maakten lange reis rond het Afrikaanse continent 	2
+Suez	SuezFeedBox3	Kortere waterwegen waren nodig	3
+Suez	SuezFeedBox4	Het Suezkanaal werd gegraven	4
+Suez	SuezFeedBoxGiven	De handelsroute tussen Jeddah en Rotterdam werd korter	Given5

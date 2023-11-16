@@ -1,0 +1,350 @@
+No. Proefpersoon Instructie_Code Segmenten Codes_Sophia Codes_Marloes Word_Count
+1 P01 (1a) "DQvcy euXx aspXS BND4 nJGC nhFyV 6kq7WO UfP w308F 58E qWJB rmCz" 1 1 12
+2 P01 (1a) "cGI4D 2og wmZM 4hz SALQ8s KIcrz" 8c 8c 6
+3 P01 (1a) "OnxN JXg FXU6 t9A4 G7jFMl EtN 3v1dm 7efK0Y" 8a 8a 8
+4 P01 (1a) "fxThT 51AaL iGrQOD EqF ShgC K8KV 2RFew UznLVg sA7Ucj xyNI9 7r04 3xAC hzUJDw rl2V 4Nh1A 4hz" 8a 8a 16
+5 P01 (1a) "TocD cxj wEW 9Ts CCW nSn W63Alh YwDUCR tnnKQz 8XPtc 5xNLsd D0Ra" 10 10 12
+6 P01 (1a) "a4VywW PPT doxhN 1tfQ Qz1 YzH B5uew jXi23 be7mjr mXrHI HdCf 7JpMeQ 9LA 8UVWkx FL45iy" 9 9 15
+7 P01 (1a) "CFu66 IzzUxK 7aP uuG rMXEDM Ml8MaF" 8b 8b 6
+8 P01 (1a) "A05PR Iuw hoiBL mrBZ6D CW4Yie WUHe 0A9aN8 ygM8I iwhYY WkiCD XKhJdc OHE 8kxyIw gRVm 2fBhki K0UNEg 19i 2MDdB tTM xfD 70Xnih JozF2b" 9 9 22
+9 P01 (1a) "CNR SRdO" 1 1 2
+10 P01 (1a) "5JBLu kQq 990Gr kpHSJ r5e j7M7 0Cs5d THzT" 8c 8c 8
+11 P01 (1a) "1fCLw aIu zFX Xh5b BzwywS r95IGm 16bc 1g6 53Vx t0VZ ctlX Ygk1sj Y4U" 8a 8a 13
+12 P01 (1a) "NHk XJbj fzl 4AkY1 lum4 FTI neZYjx ucjPvt CYca R7K D1UTM" 8b 8b 11
+13 P01 (1a) "hu8Qy VAaC gK552B LEJ Pou4" 8a 8a 5
+14 P01 (1a) "EbvSXz m1BLc daYU Iw0i3b VJbC" 9 9 5
+15 P01 (1a) "Fsx 3Kt9 3iY9cA fiy9V9" 8c 8c 4
+16 P01 (1a) "cS4Cu urF5s Xr3Un3 rE3Q2 AfBV" 15 3 5
+17 P01 (1b) "4uTCTl FF6oD L0J 8GPH vj2 sEf3S Kv6Z" 13b 13b 7
+18 P01 (1b) "61RS 3Kwsd GvU2B dFvR9O 6gULH 1qMp YJh iulDQ1" 14 14 8
+19 P01 (1b) "tz2h zc9q0 V2sREM ueSDgk 9P1I2 R2wL tPe BoKS a1nkbW" 15 15 9
+20 P01 (1b) "kjU XIc qiC dhX5s HzV2 ijV byFWw" 15 15 7
+21 P01 (1b) "mQq zX6h Q6c gKL XjW qJV fKE IsPd xCQ0g QSvc 0yh Jw6 Q2Q LOYo lRBM X424H" 8b 8b 16
+22 P01 (1b) "ra5 Vwzdi Lde Wx6 HxcFo FQ8l0V wN2 75b zpjxr 4Cd aUjat" 5 5 11
+23 P01 (1b) "bwPFIS ghz5J5 z1fFu qQn2d4 S4NBs vmCmQg I5KoL SYmX" 8b 8b 8
+24 P01 (1b) "r0WUOj ap45 0acL oAJ r8RLI AFXCW VgnuLv" 8c 8c 7
+25 P01 (1b) "pIhAZB dzMk gO6yeq g5BR vzE 7nG MUF 3PwjXo" 15 15 8
+26 P01 (1b) "KlKL OKuT VH7JH h2S bcQ4 epV8 qEUFb gjk" 12 12 8
+27 P01 (1b) "q2olPu qI4 uBE oHo AfFz yiZOEz 8S9g PWg" 13a 13a 8
+28 P01 (1b) "VlehTk IFbJ OwbE8u DUxB m5LV mKG PEP" 8c 8c 7
+29 P01 (1b) "20yfoC IMt5I dlG4s VYd4e XYjqY czJ 6NWX" 8b 8b 7
+30 P01 (1b) "PHw VBhlU2 r6EJB VP1L3 MkJcvx z2fuw 6yZ XrR 7OFx oini" 8c 8c 10
+31 P01 (1b) "s9Txpq lRn C0aWPo f4z KDr77Z jX8 iyg7 HLB8cS xvZ BDZD zYyR8 XYBKw kZ4t 6W8oNz" 9 9 14
+32 P01 (1b) "bLCcol nCiuR JoNvI SiwABQ xad 2Tl pidD xo9a" 8b 8b 8
+33 P01 (1b) "Vv1bj KQA a6Lrr ZJnUc y2WI IFq Ju8Ug co6HvZ U1B Vxlq ZDvW KjN J3Pqk PEP2r HCz3m 0ehcZD aix8a" 12 12 17
+34 P01 (1b) "uFtJB aPLa P7GOw har sHG rPXvO DrXCh yVK0 qgA YWf1zp fT6n Zdft8Y 1iN cIEFrE 6loT6O F3Ty3x 44J 1t5c pOsZH KbM" 8c 8c 20
+35 P01 (1b) "lIdSI WCYs5w Tn3 psmz NMyRi qqJnSA nWasc bHy PgnD ZOnDZ LjnLF" 4 4 11
+36 P01 (1b) "Tw1 fEB PvJu x6O7k gU4R Zod TbGfs z5K e0KE" 15 15 9
+37 P01 (1b) "k22H prwp wEFPYE zFV gXqJ5D pwJqkX vcNa 8Le LwY uY0b SyDEl" 8c 8c 11
+38 P01 (1b) "VrrDAK JMkr fYQ 2dxkZ" 10 10 4
+39 P01 (1b) "Omm MSi1px gUTE0D" 10 10 3
+40 P01 (1b) "UPixf NpE UznV Sq2 Xosk 6ZU0mi 2k24hz D3RkZ Y9pFG" 1 1 9
+41 P01 (1b) "Gu3jjr KFlj1L kxR4" 8d 1 3
+42 P01 (1b) "Fnbi woP4M CX3 dEBUs8 FkmV0a bg9b9C w7HQFN Y0z" 8b 1 8
+43 P01 (1b) "sQZDii whfOFX p7c FrDGch ZX6gKQ" 15 7a 5
+44 P01 (1b) "DIi Y1r MK4Vq 0INH i4v Dk9Er edSw WAd WcCAy 7dn69D Ke7C 4rMO" 1 8c 12
+45 P01 (1b) "oVQI VRHI ndArch zH2K8w 40haY A7boyD 5e3xy" 7a 8c 7
+46 P01 (1b) "Uuw B2LaGt ZLaC36 YEIg EyW Fonqru 9C0MJ kGiLWQ WBWQTy EJf" 8c 8c 10
+47 P01 (1c) "t9X xh8 EgKJL NNm22 c4bUej Rtvy yNO peUdB UBts" 1 1 9
+48 P01 (1c) "Ets9k ytfrK mEk928 HAj YB2i LWOZ7v hG3YJy ZlrO RFx LjUeg 1I3 xmHV0f 9nNR usQn xHlS 6UmXK" 13a 13a 16
+49 P01 (1c) "CnNE ReR R3J G7F7yK" 8c 8c 4
+50 P01 (1c) "UrZF9 k1z9 Mncq7 x1ix vqLt Rcd0Of aRQ8vD slvdoT mPQJVW lOQnRh DvUmT QcI 6eeMIW" 9 9 13
+51 P01 (1c) "DCH3B uFHZ78 vRn DgkZBo SIWx4 axn7 Ez6pGF 1MXz5" 9 9 8
+52 P01 (1c) "gVKG HRdY HRa2 mHjVCG Cmt Zss4" 10 10 6
+53 P01 (1c) "SA9ox nZ3uT YImCJs" 8b 8b 3
+54 P01 (1c) "CABB VOUan NbI 9rk 1yWSZ Oda3hj wUgkWq Iag 8oDV" 8c 8c 9
+55 P01 (1c) "TMYKV HuoY3 TsHcx6 For zejZ yyP4az cJzbUc ZuR ESv" 1 1 9
+56 P01 (1c) "7Nmbol Y1vJ 0Oz 4apP Arn y8PEfd wZmDF d4OL" 9 9 8
+57 P01 (1c) "IbN tP2F Spmn3 lgSYcP jAeD1F ThN99 WMxs2 YPNh s3HH 7ym3O" 9 9 10
+58 P01 (1c) "htXOnI b84Pk RNfka qvd 9S6E J6j2" 10 10 6
+59 P01 (1c) "X9NC r6AA Z1fTy ZdX YIe1D W98R qobu IgRcD 2JijBb" 8d 7a 9
+60 P01 (1c) "XHW YJ7R5 DeN dRs02h LV8 CJjN1x HLwpx 7Pew JVd VvEk" 10 7b 10
+61 P01 (1c) "CWYJg0 6Ayp0 dsToR hcY HEix" 1 12 5
+62 P01 (1c) "YUH zmjoqt lyrmY EBNrTL WYEFw RE3kb2 wlIv bp7s" 10b 1 8
+63 P01 (1c) "W09mb XgeuSk gl4wUV Gyg Gv65 3WKKdU kkTSx qmlqEW eAVz zy5" 10 8a 10
+64 P01 (1d) "i8OWC a0PLHf XQHQh DkqM 0T5hRE x4fy O5XZL Do6a 7qZ9o bN1kEz JwIGNG" 13a 13a 11
+65 P01 (1d) "ifIjJ ihKwdE DQqvmL 9HWoN Dc9WD O1oSA XWoZK5 9mKu 5U7YeG nd04 nNkkD n6Kz" 10 10 12
+66 P01 (1d) "Q8F rZpWk5 zWGRB xoE 9jiZ xWaSq gP8O Nb8V bQ3e 0rsf1v mHa4VC POebqq mWgc4J" 9 9 13
+67 P01 (1d) "gmpAqS kZUZ Y5z wldth rV6yRc wuJSE rTZu lQWu UII7WW 0He3c1 XQ0lh" 8c 8c 11
+68 P01 (1d) "ADS6b QBc 6ZUBP ygppW" 8a 8a 4
+69 P01 (1d) "HHXAU 5Sr 0aqY ouJMhy ilCg KbbNw yLB" 13a 13a 7
+70 P01 (1d) "xIMv 9hP Z4z 3YlS YqnZ Orf qbp T94gi Y7xNF Ssgq L8V 6mJc" 8a 8a 12
+71 P01 (1d) "OMzivj 8WL0 TRc yxb rjQ4e stCkzR jDP Lwb" 7a 7a 8
+72 P01 (1d) "Ipg8AL dllp joi 6Sm01 6i7jq oxSlH qO9 4l3yT P7sE NJRG7Z" 9 9 10
+73 P01 (1d) "9eH1ix 1oL25 tcEDS 3Nc VV2X WYUcw" 8a 8a 6
+74 P01 (1d) "Lno i36 ywa dBJ 4QFK7 oTWbq ywgKd Lsn tye6Fi wYU2 VBosk 8uH GxeN3" 8c 8c 13
+75 P01 (1d) "WZj UQTtvZ i6K 4QKT saS 7nHD1C WCgitF CuiF aVxu HzVb cDT9" 3 3 11
+76 P01 (1d) "cmvm40 mDUhMk WH7f8Q oj2tm bpkL 0Ht0Y YZrknK TD4 8RrAo4 wcA32" 13a 15 10
+77 P01 (1d) "r8e 4SiRUL Q8QI DfY" 9 8c 4
+78 P01 (1d) "94cm 7lG 00xRl" 8d 8c 3
+79 P01 (1d) "ktSb 2tYa togzxN C7vLv DLmDAw 8erehF 2iGo 5JCrQy Ja7sch NzIQUc mJhv nhZ1 V2cc" 13a 8c 13
+80 P01 (1d) "VdJiT ajp Xt4c uIY2e0 gzA5Q AyBQC Avdn Qd32 zCl PhT irkY Abmwy 67LU PL09 oTSG5 WuChX" 8c 9 16
+81 P01 (1d) "84esi uLD 5j4 UtsSK 6lV 7tZg PZZ tclR BE5Q1E 0EBaDL BdB4i" 10 7b 11
+82 P01 (2a) "kP2 fkfxA Knv" 13a 13a 3
+83 P01 (2a) "p8PpJ R85 17fi4 OUC7 oLEg wseCK X6gmc 03phT LvIq lCkNa baN" 10 10 11
+84 P01 (2a) "ddVpx fork fFIEUj AD84I 4jX 2ip1u 7n6id OTz0 jefn54 lKJLs tZZQk rVP lUs" 13a 9 13
+85 P01 (2b) "0ym N7mu PsBe mrzy 0lvBO 2z9 tE4tk2" 7b 7b 7
+86 P01 (2b) "nLQh slk 2QGdfy" 9 9 3
+87 P01 (2b) "1RV4aP tk3E lawWVc Psyat O6ukxR 7qGnB t2HvS4 1qB70B 9H1o pek mAGbsD 84pjMx" 15 15 12
+88 P01 (2b) "9e5fg6 SrLm KgF lUw Cng YOt2Nq 9LF w9P lV8 qvf WPnO" 10 10 11
+89 P01 (2b) "P4TXdP wZkW11 rpmOVv syoHb d5M6Y5 CjzsXC yEbwB aISpYt r9CRU BOX PIg kWvXY KKm" 7a 8c 13
+90 P01 (2c) "cAf9k VlSC TL6Im JvltRP K9Ue MH5A W4oLj g26 vR3nDi X5C1 Vnaouw" 13a 13a 11
+91 P01 (2c) "FMH5 l3JUk aEICpl pwTJ catUg" 12 12 5
+92 P01 (2c) "Dqn1u kwDXe Ktu77 LAPnIJ Z1v7c JsdBS LkU9pi zz0 mkGzx 3JNN x9zx ww7jD Sqwr KypHJW IOD4N" 3 3 15
+93 P01 (2c) "D9o p8GorY Jklars g3d C7e21 uAIJX 9DAnCP DTAr9 Vh9uk" 7b 7b 9
+94 P01 (2c) "oY5NRj 7ujnR b0u zXbj v2H93a TTxO5 CB00V dKP" 13a 13a 8
+95 P01 (2c) "0hZw FqIAu UB8id nhI8IY KD8BpU ldOIp O4Hx CGOT uHk KgeyG YoDYK AISn Kjl 46rL0 DMd" 15 8c 15
+96 P01 (2d) "vMhF ge1z NUXWUg JT9t kiHR BPTl" 13a 13a 6
+97 P01 (2d) "Q34Ft EkXsXy vwtE fqy f2EWK RMWN dlTj C7N NhYmK FUG7V FLq hcD xew DjH" 13a 13a 14
+98 P01 (2d) "1lNPL b6B J5Z LxQ i1UlvN Ox2hPc q1L 3hDl2S" 12 12 8
+99 P01 (2d) "BBUBSF MElNH5 aabuF LVn izt 39wjOg 7QB ZCzC CUxt xP4 Etw NuXX" 7b 7b 12
+100 P01 (2d) "C3jrlk tChcf CD1a8 3Kt WKx ni6Q yGmXl 4Rw3cq ldV2l QsIk 7gr" 8c 8c 11
+101 P01 (2d) "TdggTx t1cAy Ifoyg iJcm BNboCu bkK JAYfR Jc5 GxLH" 13a 9 9
+102 P07 (1a) "Xxy bbw 7b37eP tYs7Ce WxDHgg Gic ths DzFNC6 vul4x" 9 9 9
+103 P07 (1a) "mbQ 95n A0FiG LmEW Ig1E AwDs2Y AKLx9k LwTv U1KAcp Ch56mA hxsGNq ZYS jZr xAx" 8a 8a 14
+104 P07 (1a) "6Ewen x0h1G q5IQS W3b5 tSk krFTtq E69 IK6 GqQ" 5 5 9
+105 P07 (1a) "z03Q aODMw8 98GL ETLXwL UvEr3 uEHU 02g P3kf I6B4en H0q bBY" 1 1 11
+106 P07 (1a) "GWz vQf Gv2 wB3Xg4 5Cl3 NDqwRd PWcHn9 MX4r KnD yoUGkJ 5F2LZ uNOm mVc0 IB68dn gfgai8 bDeK8 QTxSPm Za2 rU2m DU54 L9qc" 9 9 21
+107 P07 (1a) "qQpeIA MclW9 fx4zR VSH 5YsJg R286 eZ9U 90Yvg" 3 3 8
+108 P07 (1a) "XpT29 ILQY pHW6 1rZ3n hUSI9h wfJ WiPJXe 6FLh7a" 9 9 8
+109 P07 (1a) "pBwhcS 44Ij ULR HVS FKq" 3 3 5
+110 P07 (1a) "jLqbv 0eVhV 0RUO CFc WYMmj fogt HjEIJ 1FA drMm" 13a 13a 9
+111 P07 (1a) "LuRm ULVx Nj8 Iethu PUnb6 S7VmZ YZyF tgphM" 10 10 8
+112 P07 (1a) "uZLifA TXd xx6S 5SaBJ PBt axY g9CveF kuw2 hFF0A" 14 14 9
+113 P07 (1a) "gk4tVo ASO2 OPjR DAdy" 9 8c 4
+114 P07 (1a) "mgfb20 N3Z 68c0wa yI9DE cruiNe p8Wg 3sESx tZj" 7a 8a 8
+115 P07 (1a) "1ENTi ySIGkk Iud7 DdPRt hJcgn T4iP xbQmQ 6BcwDq h7tG N6wpJ" 1 8c 10
+116 P07 (1b) "Ypiz e0A k6i GlbT3Z qQfQ" 8c 8c 5
+117 P07 (1b) "0GuXbf uTQ wIL aI8Fp oTh8tq MOfr9T 0wSoO NTiXT 0kq zi3QOV T6Iw" 1 1 11
+118 P07 (1b) "vRajD vUZeb UFDm Iwr aMBv MrBwdr" 15 15 6
+119 P07 (1b) "zHF llJDtn vBUT1 gz0M9 AgH xtkFqM OL7T PYNphF KOL" 8d 8d 9
+120 P07 (1b) "B4vQMl uZY ovT acqcm yMrV86 b3zx cZpO62" 8c 8c 7
+121 P07 (1b) "XRP YtUwc X49 OALps rDPsvb UhPFi YUS j5B3gC vpIQJA XZS sh1j7b AxTtc pvMRl" 9 9 13
+122 P07 (1b) "tSn5 zzf6rQ R1bl PauyX a5UQR UxL5 F0RUx LUdO TxV X1By BLW" 8a 8a 11
+123 P07 (1b) "h3PI VzuxF Sw2 qMjEle W7aI7c 8Heeg" 10 10 6
+124 P07 (1b) "k1R DcBDd fc8 SrwejQ 83U Tpv G2I63 RUZCe lg7B5O kXW FmwaXy zAImc sfjOq" 3 3 13
+125 P07 (1b) "PTBo MLFX6Q fS1Hi PnX" 10 10 4
+126 P07 (1b) "5NLm clHyj JE7s2 ejF8F DCqem8 fYEeLq QKyEZ yQ8Qyv FPfh kZr rW2" 7b 7b 11
+127 P07 (1b) "kR4ra PyIIm3 BXF mnVoO iXvTA kFr0R 8uZd0 HnRQ fZA 2Ib" 15 15 10
+128 P07 (1b) "3HxR0 9Fj Hkg8c zGy wDd UgZ" 8a 8a 6
+129 P07 (1b) "KbMu SQYW fxb 31xk" 10 10 4
+130 P07 (1b) "qhevO HuN7ez EWXVv BuK Ezjz fAIW5 d3VJ5 ZbLP3 VF1ydY AzPG Sd4Wn 027f FgUX vkqoxV tScmq 97kpGb P3RyGU 7Quo" 13a 13a 18
+131 P07 (1b) "q6il dSm gAYUn yXfv1H f5Wcn pVwwm vfvx" 5 1 7
+132 P07 (1b) "GhR0Du wUvE yBEykU bY4 Hvnj Rz5 ENotO vXG KzM5S am0T NlqUAl" 1 7b 11
+133 P07 (1b) "P832f V6A ev1 WB1QTL YZUY qcviGJ" 7a 10 6
+134 P07 (1c) "VIcY7T S7ZhLj 4yyVp Spyct YBlO 8Avf8B nFGio htuUR NK9 nWMq Ckz diuSk7 FUCm qAV3yh" 8c 8c 14
+135 P07 (1c) "kQMdj qAo5eI PxtqGE 9mAh4i" 12 12 4
+136 P07 (1c) "bef DQL e137o9 uPh 6ZR RKtSL PrPOuX yKD jBt AV6" 8a 8a 10
+137 P07 (1c) "ytO heVfd EGR nzXxT zObahA 4V7E CPY iyVZ3 AvgXz 69I3my rwI22" 3 3 11
+138 P07 (1c) "g3b7S kK5 XTu KpucWo DO4 PxvsW YUF YeCE3K jX1fsX Osp SlX 2Im2O 5hzxL" 7a 7a 13
+139 P07 (1c) "o9Cc dz1 z0Dl CdcJX vQ3Ew tGG jdlR1 YmP vpvOm dJ7 TUpuJ 31aN1P" 12 12 12
+140 P07 (1c) "bEHY9 C4399d NYZc hhdH EWL koI fYyKP BLILDs Oi25 v6K5 18FA xHMZ QaT" 15 15 13
+141 P07 (1c) "EXBSLZ mZk047 1Lsf LY1 EaRWe Q6KdL iEuFA Olq aOfeL BiaUg 3r3 sBPM 8OF 12f ZoLp7 6JV" 8b 8b 16
+142 P07 (1c) "xAAaV puJLi KgJnWL 0wCO iTXbO j60 LgGf5z qFt cEe SOi M3t1bF itUkS mqe9oc wChyap iVpMFm ZVEwB cODAOg" 10 10 17
+143 P07 (1c) "uiR9 vdaC Xvqsp xNEn 2IiHu d34a3 JUhn0" 8a 8a 7
+144 P07 (1c) "PC6Tfk cWAnQj putTy B7MUEk UQg7x7 b48JEX 1Dq KM82oy 8xkxK7 HtkYMX" 5 5 10
+145 P07 (1c) "YZsIc UTEd I67j yc9u 165 uWbHU Rqa 6RN2 DIXn9 b49n a52 LqyYeN GY9G 1XrbtR tA9 6IupyN GB4" 5 5 17
+146 P07 (1c) "h7naR 9UNgo zZPP7 DQf l2C Q3H voWXL0 27f 6Jw" 11 15 9
+147 P07 (1c) "Oq3 KKamk MlCVni OE1Ox EEKlCG xpSetZ 4Sxsb QdU 5Iqo7 GZ7em" 7a 3 10
+148 P07 (2a) "ac3TA 07RMQ UYvb R6d6 BsI LNh Hoi F53 b2A5 tbh6 kYk bsNr RAkTQ mCUnQa OWZ6 kGU" 10 10 16
+149 P07 (2a) "JbDU nlhMnB rtDL1X LhIyN k2B9 0Kh 6HQLm be9JPV KYLsi 34HsM 4R9sX2 mQH np8YV" 9 9 13
+150 P07 (2a) "WKM TlJnNp xR5 esMd 54BD ckq L7w LDoPr" 13a 13a 8
+151 P07 (2a) "ittd 5Go 173NsR UgtFw eaXkVg lZIU qsxs2 fmekuC k4Q dG56V" 9 9 10
+152 P07 (2a) "lpQtc4 1Opj aOp0x FEPRq 1Vs8 DZOl P3UYdN" 10 10 7
+153 P07 (2a) "pf00n fRyvE VVj3 a9FZUp IZ8jA bLw JTY 02GUq NLRx" 13b 13b 9
+154 P07 (2b) "onfpFL vXoQr dSjH EYdSQg HncA1z" 15 15 5
+155 P07 (2b) "OKS7tM Jitmk YFB fi63AQ kRaK IRV8 FDqb J4Myz n90 8qauH kbvrwL RAQ5w rCLMJL O4g9 ci2p bIWAX ZdaT25" 12 12 17
+156 P07 (2b) "JpkgK e2a U8cWI P0MkU jSvb qlZ7W6 fF3di i0im Y51vV v4mNg" 1 1 10
+157 P07 (2b) "jdigN lNgB DCNU YAI vnsy KDv 23BX0 wjoYn 2WZMiB Wdq" 10 10 10
+158 P07 (2b) "ViXK3i kR6 dQEq xJZSWy 4gEFc O8lf rEC hrD NKFgF XRX2 EEp" 13b 13b 11
+159 P07 (2b) "Crlx TTzH s7wJ XPW2d Af3Fc e5cvNy WCQ" 13a 13a 7
+160 P07 (2b) "9Rgy7n LAv6 kVt oihVm jLg" 7b 7b 5
+161 P07 (2c) "zHus eNKE Cz8rt lcFoU5 aoJ1s qeWGW9 ju3gjy pMS ALG 8c2" 13a 13a 10
+162 P07 (2c) "Z1s LKZ jzoD VrkE" 13a 13a 4
+163 P07 (2c) "x2vBUa dhm6W ur2Y2 PzqUE sU5n aGh zmS zpcnU k1k7b YslMdk" 13a 13a 10
+164 P07 (2c) "xLB8 kilBGv SjoL 7SUscz VoUYj ANut6M YdT jT2 4GiSi I4CuN WSmtiR pdyw L2bdY2" 13a 13a 13
+165 P07 (2c) "i61Y GYVXvx 2prQDT CjGqIp CnBW WF7 VeSgu 5zr 2CaT8 b6yoj dcg 1dSqdL 2QA14 fCT mxS6 0KGl eU1 iGlKw whdG8F RlkXl" 15 15 20
+166 P07 (2c) "15C9m5 YzKn gjVkq yBLqp0 lIO6x XHe" 10 10 6
+167 P07 (2c) "zqq8 LSp 4Pa8K3 GLf Iy6 irJQdQ e5H1DB GV6 TryOZ mZsH2S 7Amr 27ytp vShP6 1lS S2tGf 04Lm mjG sLlz" 13b 13b 18
+168 P07 (2c) "Ak9 Nbtk JWbh iMvi2q kMFrK d7xRrD hEA J9aEOW sIF" 13a 8c 9
+169 P09 (1a) "c9tJb VuU hHiZg lSI0g CbN 5BwZ" 15 15 6
+170 P09 (1a) "H4P7e tQpkOv YIchGu b4DxQ hPr9u MU0uIq fPJQ eLki8V" 8c 8c 8
+171 P09 (1a) "OG6 1sZ0 Qn4EKb Dfu CGM g4P3 1RrC fFzUi ShFE7" 8a 8a 9
+172 P09 (1a) "8Sq 5qHxH ltMMj7 K39c Ii4 YbePFM" 15 15 6
+173 P09 (1a) "wWQb DxuVH AJC31 J3t5 Ws71 Tav AKnqac 14UOy 2JJ6h 29rwC4 BDOlTg GwFpZK 77DD 5MhWIr AHXlA 7Lqnka" 1 1 16
+174 P09 (1a) "k1x0yA LuOER1 MUDB S05R" 10 10 4
+175 P09 (1a) "Co6b eLv qae7q srFMlj" 8c 8c 4
+176 P09 (1a) "syE k3xwR eXS5x3 uTH v2V lSCJ" 15 15 6
+177 P09 (1a) "Ars1Ui cTY bM5P EQflf0 UZj" 5 5 5
+178 P09 (1a) "X1QuG arHC 53H bEKf GTBc 9Ma" 8d 8c 6
+179 P09 (1b) "XJKS doG2V NC3BG YiH NEGM5 E1g8f RYL1T J5F GANVP S4I87 PPNd 41NOv EXt pcpM1W" 9 9 14
+180 P09 (1b) "Iu6 Sx7nNU ITZuNW oUI M3oZ3B Xvff" 9 9 6
+181 P09 (1b) "KB5xBZ plepXd acw3 UP8D 5QwUf9 6wxhd WOa1Au rGx0n 9QL N5Zw36 2rMN" 8a 8a 11
+182 P09 (1b) "ODv 4Fr K958y mONC" 10 10 4
+183 P09 (1b) "VfPOG SfhEh 2Hr aqFBd" 10 10 4
+184 P09 (1b) "RnV NuuP5F vMmzLm 8JuZA gzu6 KKMRD i7K" 8d 10 7
+185 P09 (1c) "5QIDXe WUX 46Tlj2 J73o fw5 IXL77 emD tovfFD hih 8gyqky Ma9j kD9 krgS wZXL bdm" 10 10 15
+186 P09 (1c) "91S IpBCS k3n" 7a 7a 3
+187 P09 (1c) "lglQB IeQiQ m2E DG8DwR T2Ig w1Z TroJ Pqa rFN65H 9yYwjR veU OTWBfS IpJ gfUg q3oc 3NZdqN" 9 9 16
+188 P09 (1c) "F3s rZOx kAPEZ7 pULx B6m9X l9M L2AK QByWRA oogSGu 6Ri" 8c 8c 10
+189 P09 (1c) "WaI tak StdM K1wLM E4eUx FukZjK JlsG xOt3K0 FdClM PXR 5DXvMw GTJeP V7mce BDGMi" 8a 8a 14
+190 P09 (1c) "bKxTg A7VM vfb ElSXW ykheDz" 10 10 5
+191 P09 (1c) "IVTlfl rurlqZ zNE2U C6rXB5 Ro9k5 uYpge p7jDHn" 9 9 7
+192 P09 (1c) "Ym19 oxw H12BE g6EmZ zfewAC 5yar mjPaB Jakc8M TkWp0" 9 9 9
+193 P09 (1c) "JBzw qiD1p IJG1KW 5NX iow5 MxCEv DMl" 9 9 7
+194 P09 (1c) "AsOFP 1o5F 5zeUlB 1uVGi O7S WRs aLxyV iK9x5D jTbD" 10 10 9
+195 P09 (1c) "qWs9WF JgEt Rb99Gt AisV 8D5R0n 0aKc oP4BAA A0hcsf 3SuHY 4jIMc3 LH9fP5" 8d 8d 11
+196 P09 (1c) "Vh1xIx sph86G nUGx6 9qrJ eFSTs x7zV" 10 10 6
+197 P09 (1c) "ZkP Gg8 FdD3RJ Ac8D5 1Ky Fxc1S Kf2z FsT ZlKdG KdCasi" 1 15 10
+198 P09 (1c) "sxHda7 6hJ2Hr 9WRZg4 M7y5 Smgff6 TaM f4w eux3M ox4v" 15 10 9
+199 P09 (1c) "iJx 0DS mLsJb TMYx3d FBxEOd mtgWF G3zPnH u5uM zmNgt" 12 15 9
+200 P09 (1c) "t5bk V4bHhW yL6q QTVxxa 6ELvv fhsf5" 9 8b 6
+201 P09 (2a) "zKB a1D YwL 5DvXy qERlI CZO JEA GgwINo K9GM tSsM WifucL 8LK 3B7z" 13b 13b 13
+202 P09 (2a) "wWsTZ PH7q krsYR3 vSoubc vztNb9 LDfL tCKG C3af xRBOQ sk3bo gGR 4v8q SdX G7g aSez wxDL pLx 6TmcWL LDy B1qnG6 ol4kR" 13a 13a 21
+203 P09 (2a) "dOV8 ZOL0 jgH7fP cfe6fl sRJI ogDn Q2P" 3 3 7
+204 P09 (2a) "An679 EEXwt YELkTm zUdx7d" 7b 7b 4
+205 P09 (2b) "0aQs SBvCZ X8nhjW qBlLKt i8D xh2U o3PtR fpFnrk Vn8lbU" 13a 13a 9
+206 P09 (2b) "OalU tBxfv iKunK Kfs hWPW jQL2 WozAmd BlYOW NvdfF 0FGiCa HaLE 7hJ j61O" 13a 13a 13
+207 P09 (2b) "rHsQt6 JcHmTr Po0" 13a 13a 3
+208 P09 (2b) "8nnx nq9inh atY lXn 5uen fp2jk wJvU XBLkg y9w" 13b 13b 9
+209 P09 (2b) "DeY xGd" 15 15 2
+210 P09 (2b) "l5w4 fLL M80N dH0 ceoN0Z gN0 Q9DIQ kdr6 Cw6TTg" 13a 13a 9
+211 P09 (2c) "ijqby YDvE og2xd uE1 fyM 5eU HAq tZgOB u4O" 7b 7b 9
+212 P09 (2c) "2kWmjp lD9U 0vn l5ooAl rjbP 9KzAa 33zOR MsRe en1" 10 10 9
+213 P09 (2c) "4ojNZ1 SjIl MwkBkD oLFpR3 WkxzB 9WkL8Z TCY2s 0Z9fP RpHxHN" 13a 13a 9
+214 P09 (2c) "yNOd Edw9lC aiWeh Wzcp uVQM6T SA8Cj kgEg" 5 5 7
+215 P10 (1a) "jjqAX fZYf KdsCm wiH7z R6RpBO 6BuYRU gfh wLL 4bp Rir" 1 1 10
+216 P10 (1a) "Hi2Rlq LUHg z8H 4HxrX4 qEYZ jYfq" 4 4 6
+217 P10 (1a) "6bGzK P7kPno Aw1 6jc U13vYf 4QdG1 rTfqo cOgUzo CC8t4 ckR tzCUb oEKyu" 1 1 12
+218 P10 (1a) "qua Dp6 XMGLWl lLTVbx a1g" 13a 13a 5
+219 P10 (1a) "SCk6 b2a aNL4Sk cWqLre ucO1Uw 1Ck kKM dHBY gAN TmlFA qlmy2" 9 9 11
+220 P10 (1a) "7f1NX4 yG2L hla2E fxPNZ SnU FrZfo gGVshm" 12 12 7
+221 P10 (1a) "FCb 2xe8Q UK1o RZ93 6X4w 0mFdL P5ffq 09dOjx" 8b 8b 8
+222 P10 (1a) "axlpn TgL 2vg4 0mIr Ksv3TX 12eX Sxjb" 3 3 7
+223 P10 (1a) "nSFm7 uCyK npC1Z rmR lFsq iZ97B T8XVC" 9 9 7
+224 P10 (1a) "aLO xdpoP OEoP prpiWo YKV9c 2LcKh0" 14 14 6
+225 P10 (1a) "0LDI1Z gvE Ieup iaX 2JtjKN bmRVzM aFnUS zO2mlD" 8b 10 8
+226 P10 (1a) "wEbA 7CW 9q74 jhv f0NZt 8HcIR5 UMZ65" 8d 10 7
+227 P10 (1b) "o4wjC 2Nm NamOm fbA eTTG at1 ljI" 13a 13a 7
+228 P10 (1b) "XypoK1 r2zYD c6A R2ZUvm r89PH ru1x JmTIH KtPp DnZ9e 04a iuC6I4" 10 10 11
+229 P10 (1b) "vzhL L8l7 376Y LHrz 0o1w 1f0YIn YOqG4" 8d 8d 7
+230 P10 (1b) "yYL 8y43 UrO gx8l9f IDJIkX Sgzpz Beaa" 10 10 7
+231 P10 (1b) "ZdOG BLCw3c Q9v" 8d 8d 3
+232 P10 (1b) "N1rMna 2Ok0l 8DjRda 0yNIkO gHwL3 9rQll oLw Kj3Ev2 nnvVP shpi bnl7r8 Zyz" 10 10 12
+233 P10 (1b) "v3L vbyz aDuRma T6WC 7zMm8K" 10 4 5
+234 P10 (1b) "8a0BK qI53VI Gycp RzA" 2 3 4
+235 P10 (1b) "xfI Zi9vI zLK tr5 dW2To" 3 7b 5
+236 P10 (1c) "MzSX3 JGF xlf N5t5LE MXymF jiLO K5dN gbktG un7K ziEL Jnbvk ccIIU 7ihq7H 8BVb eAh 6IH7EO l4FN WQgBz7 lWdd dbgYR vOa kx4VJd" 15 15 22
+237 P10 (1c) "eDFnEE 2izdWR uEwX C6Fh VQIYVZ yKFxPz SkXxtt C1lT3D PZraR Y4d3d eUUGEb b8cMI" 9 9 12
+238 P10 (1c) "91Pv n1ojF 9rfj uxCsuQ p3J vP4nd 97Ux6T 0DCYxE X9cE jh3X0" 10 10 10
+239 P10 (1c) "39w2 C1bKZ pC1xt jxR hfx5 UoUjEE zLV xfAhX zHwoc 8eo9 Odr 4udo jhjG6" 15 15 13
+240 P10 (1c) "gKgX m4JiC D8I7s 6bc wws mH741h b7OR wiwq" 9 9 8
+241 P10 (1c) 42v 7b 7b 1
+242 P10 (1c) "rLk7f kuyC T1K4 XIk 9WDH Ctpy ofX ARMpU6 MDH9 Ti4dL" 5 5 10
+243 P10 (1c) "Am9 4X4 DcjO PoFM cmYWC Kizy qW4 gGh kNG9 0l4QOt sSu 4QS zqiFC kYXkRO" 10 10 14
+244 P10 (1c) "NEPSp Bgm pOItl xGe53 kHUpVp TaPczU VBCSKa wJQ mX1K5 MH38 zsweOw gfRYwf cpdLGx WHL8HN" 15 7b 14
+245 P10 (2a) "t9rJnR dYIT1j h53" 15 15 3
+246 P10 (2a) "okoZQ en35E 9mSlW5 7Yhb NX1vPc CTNG sys" 10 10 7
+247 P10 (2a) "lyZM6T MK7P R5vIzm Ga4j Q5QIYj UdZ7 aBRPU WH5 y8o1" 13a 13a 9
+248 P10 (2a) "BmR 4YDC BWblO C9FA4z kLJP3v mdFA AhBQ2p" 15 15 7
+249 P10 (2a) "YTrmO 2uGC 7ycp xlO eIDc yjd UWvl" 13b 13b 7
+250 P10 (2a) "LvaS72 hgIoI lhvd 2K84O YH15o USoW 35Yqa CDD5 rT8J r2s3D EybUQ" 13a 13a 11
+251 P10 (2a) "omGis pTz RyR lynR Hqq NopRdk BKxfp JBj 266 qY3lS Mvb Nnum" 13b 13b 12
+252 P10 (2a) "5VYzR nhcs8 tiu9SI wKN L2q2z RxBX" 13a 13a 6
+253 P10 (2b) "Hqp HDdA QmB c1sgk XhXNI VrDP oLa" 7b 7b 7
+254 P10 (2b) "SADK guEYT zopWXO 7ErLv 9gv8LW gdReRV fQHnOB QC7Qjk vTzd aqq Yu4rb TDTB1D zmP VD3 VTE zcj4" 13a 13a 16
+255 P10 (2b) "mVKK 6Tc 4loL8c 3aTGT 8QZms B7bdLx" 13a 13a 6
+256 P10 (2b) "xTz2WM DdQCh YSh UIkE PVS5lW WlwX" 13a 13a 6
+257 P10 (2b) "QoBtLC Gim4 ShoNAh 85G FoKV 81BM CmW THXe Xkh3D VPzM" 15 15 10
+258 P10 (2b) "3XhtL Sej5gK gGAYL NDM c7B n1l24j VRi nwXG SeNsE tpY lDtL0 JdKGk GY5j" 13a 13b 13
+259 P10 (2c) "1VSCM 1yJv2 OFqV eT1x7 cWBArR sCrE 3Nro" 10 10 7
+260 P10 (2c) "CLegQ sHZeM 2qBZK YI7 mmfH NKUDA qBo8jb tchA Rpa TYB qw0Iys dz5R jR9A Ijsc edyd gBlc fyH6Yk" 10 10 17
+261 P10 (2c) "YyCT CcL Onk WZ11B CbCZ KU3 j5nmg u4Iu9E HXsx Ri0G3k" 12 12 10
+262 P10 (2c) "7oip NcoV yxg E0Luj7 LtV7 uV33 bJyL DDw6jt DkIRe Mc3V yIxKg CYLmo ak4D gUo hbOKU" 13a 9 15
+263 P12 (1a) "H8yZW Sg02 QUU16 u4lxt cJCLK 5D1fPI abE kXk0y4" 10 10 8
+264 P12 (1a) "WY5ZCL AJViO ay0At YPRg POnQa KlRx" 13a 13a 6
+265 P12 (1a) "e8tuL JuK3bI Nap EG39Nc l6j 5gmc ieW" 9 9 7
+266 P12 (1a) uYFb 5 5 1
+267 P12 (1a) "awx3pG mDlhZ1 abS Gl4KA5 LRHx FXaB u8W pYft TL5I p2zA P138B kn5 S55q" 13a 13a 13
+268 P12 (1a) "vIrmw RfftRP 3WTZZh iMeF 7C8 xJy" 8b 8b 6
+269 P12 (1a) "G8H v0Us rk7m7W JMlwE Mu1EY qagq XMm2 SgwII DFPC MqPZ8Y znH" 3 3 11
+270 P12 (1a) "g7NAL vUddyn kPsdC V6zn DnJ 6D14mt" 9 9 6
+271 P12 (1a) "haG SJ02D Te9c L3khb E65x4X XGQowr e8l sCmh VYSghY ZVFarr" 9 9 10
+272 P12 (1a) "tE6 USyv Ko329 buYA PFe1T jnTyxW 5JEfSX jQmtLh mFk9Nd S3a psI" 8c 8c 11
+273 P12 (1a) "bi1dB ChAI6 uZwHgX BIBh XT7doK S4V7k3 pkO RSUc3 S52Gg1" 1 1 9
+274 P12 (1a) "hW2K sHs KLX0l g8M Bn9wrT pTeOp Jlw ak9" 8c 8c 8
+275 P12 (1a) "jvjmE CPxdY S4I cVHJ Ev0 nlr sMbh LpTWd jNJtxP Bje YtqSr" 8a 8a 11
+276 P12 (1a) "8b6jn KKqu inBZ4 1TK2 QZuOA NAtkh6 fWPp7 ssr8 aQjrA 5GuC9w" 1 1 10
+277 P12 (1a) "CnOE dvdSW 94yo wVp2m 1De8 9Rnh J6V xZjl IY4U Xsst KML Xi7h Tna 8tlC yeN gcK9 YEfPII K90bS" 13a 13a 18
+278 P12 (1a) "HA8m yRs MLh jSrVJ 3QRySA" 9 9 5
+279 P12 (1a) "x4jiZ DbsC cue 1KU gWao rw70 vYyEAj XCIiY oNi EetoS 8R7k aMicDW PEy nA4ZR" 13a 13a 14
+280 P12 (1a) "W5R91z IVQc u2QTaI J3Nst4 ET4rBK BdR sHTQs DnqJlW fMcPJ7 XOz oqiH" 8d 8a 11
+281 P12 (1a) "Pinj9 VNxNv J2yCaV wmBJu MZYcz nkX ERjgPn CWbw 6PxQ fe4a" 5 8c 10
+282 P12 (1b) "ZrQYX QuuVe 3CFiQJ RFHL sZw i9Mju8" 13a 13a 6
+283 P12 (1b) "uyVwN 5b5mNn LkA pGVp LgyyN KpFMv 2A9 jNV" 8d 8d 8
+284 P12 (1b) "BJ1B 2AZ9TQ 8AjktZ Dvam cvgy5d ikd" 7a 7a 6
+285 P12 (1b) "99kSEE YXyX2" 13a 13a 2
+286 P12 (1b) "V6jShZ he4S0o jDj rK7 ulzkiG 0zf" 9 9 6
+287 P12 (1b) "7hWq0Y sQPbL9 Ne8 BcgW2 6Z2pyy 5klQlg 1Am OH4fD kNe9 s3zojH oTpw4W Z72" 5 5 12
+288 P12 (1b) "PMDN0 CHWfxu uPA TB9Qk fKPC9 nto5q NjZ fyw SH4eF" 8b 8b 9
+289 P12 (1b) "EVY8 xQp dmCpQ 3Z7U MdwsSl TuI obv" 9 9 7
+290 P12 (1b) "NB3ph QZ01K vTOX Ypx8T 1yOF VfU zTQuz P1dRNh AsCs L8TjgV cSROF 1sR75 mGQ3mQ OIlJF cCyg 5xTt" 5 5 16
+291 P12 (1b) "u9JhUc Smk VIPUz ZJ5JN 3tEYtp LFUv r2wu Se5 qkSs aUww" 1 1 10
+292 P12 (1b) "6nacwO Lb3m hFSb VSkuvC QYBPU" 1 1 5
+293 P12 (1b) "umZ NnE6z a58 zfE n53 gBn0C oNn2 UblOw usY6jE" 7b 7b 9
+294 P12 (1b) "3h8xUt 0VD VyC4 Cacw 8iw6m9 1z0 vxRc" 13a 13a 7
+295 P12 (1b) "JSkI neMcS MmxUS K7t0 O346Ie 2YbeaD UEA 9TWo tPkur e8oL c0ZW6 xz9v Q5g" 15 15 13
+296 P12 (1c) "FgffG7 4xE UNvJfR 8Lw9P jVK9vP WeH p2zk0 dMQp6 9NuyL czkN gjh8 dNaZT nznXvi zHIYrX" 8a 8a 14
+297 P12 (1c) "Xi6c POyj3 GmFm 6OWEC H4IMg KvE Ga91" 15 15 7
+298 P12 (1c) "Xsd NHk3TQ j01N0N 099P oJUv P0qfs7 TCUsOD KsIjcJ HGmDp oljuB ndfs" 12 12 11
+299 P12 (1c) "8SY PNhT0j OVS6 z8yMm fjt lZA" 13a 13a 6
+300 P12 (1c) "J9CE3 CGIflr c0urt jCTQXH tgkC 9of uB5Kge" 15 15 7
+301 P12 (1c) "3sPW5 hhoH YX1 G82 vdz HQ5 saX JuUSnK JTRJ rPKnL te9 Reg 00MH" 8a 8a 13
+302 P12 (1c) "b6tk4 5pEVG BDA x1otHl 4lUQ Eyzh3t GOlUiz xuOtP" 9 9 8
+303 P12 (1c) "Wovk 2F55 he8" 7a 7a 3
+304 P12 (1c) "Lthk UKD hHIv eBT oAmpT eWVV 6ImRhG hGVi vai0U FMW" 12 12 10
+305 P12 (1c) "384dxf pxc IYCFf xtxV vo5 hhq NCzXOa 69E7Bq XHR HVEfxZ" 9 9 10
+306 P12 (1c) "9dnzyL EiWoQm wjQc9v pXAmp 11qE 5Jt raEi8 ds71jN 0oW2K" 10 10 9
+307 P12 (1c) "HqpqyW 3hSWt UG7lC JO1TQ Tcwhx isCax hLuWFd Yk9W Jnf0dO tWkG 0ObE lHz4" 15 15 12
+308 P12 (1c) "mStKLC zwqarF Fm4 rKKsb keEKVq NyKdFu WFdq wgm0 us2 Ovy5 Plg cxhrH1 bmkh iqrb" 8a 8a 14
+309 P12 (1c) "iHb33 b4j JNiEs DoKHx tHOfEX mSPm YV5 zlwBOE SzmmX GNw PPn0 9U1iRG 6ZBU rZJg Qkx 70a7 Dkd ulBYw Xk1kod QPE82" 13a 13a 20
+310 P12 (1c) "xxsozm O6U Ixt4BY Trm 4ZeJya Qjd Xjae 2tgvoR knx 2vL vKgL akDi qr6S" 10 10 13
+311 P12 (1c) "q8tsaC 9olQ QCvs IznO TKt8 jLfBEN blKWek v7C 93Jwp CyL 9VQ" 13a 13a 11
+312 P12 (1c) "cUYw UCOi5n GaUz zo62" 13a 13a 4
+313 P12 (1c) "ir8 ugK UOA OGl yGq xMK8nu nR37X NtvDV VBfK bJk eC1Oj wXARXj 9mW lxEL Ivfy bbVg1b" 9 9 16
+314 P12 (1c) "spS 4twT IGPkI WJkp04 XKHW6f 0ujT" 8a 8a 6
+315 P12 (1c) "Mtot3G Zwy RtawN O8al9 oQP 5c5WGh lTFKYC hfSeo1 sBTOU" 7a 7a 9
+316 P12 (1c) "PfXWWR eqDKk Dt8 Ffj hUxR LOmu w8MiY SOTKco eW5o XtAcP vrYG 4hYUn e4Bkwu" 8b 8b 13
+317 P12 (1c) "fh80dW Pck J0jLx xtSJZ iuoQza mg18F Pss HkJj laL KWtpIy qcC5Z t7CI" 3 8a 12
+318 P12 (2a) "dfWkgP K7bedW EhUkY Orrb Ia1 fIB koEu5R tqq3Pp" 15 15 8
+319 P12 (2a) "zLMBO GIY SB1 gaSX Hu4h PpCDF DA2 MQY cVL ThFKi LEkw cyZZYv tU5" 13b 13b 13
+320 P12 (2a) "0oWrr RvHeZ GtjTyi hP0Ar UJSj xbEF 8BeHZu QCpV 4k1hD" 13a 13a 9
+321 P12 (2a) "sxNx w4a de7x mtja xM54o Im6k 3tq 7OC f4c I7o XrBp kHLy O0k5VO mdXTOR 1Jga" 13a 13a 15
+322 P12 (2a) "92MsS 8c7H1E byVWQp x2Jt CsE GFe3rc QJKGiX 3JWppT UzA1 5JF pd9X9W" 10 10 11
+323 P12 (2a) "LGSG Q4ij T1d 4IIV FNimDm jrGg FUuK qj9vyu S3Or yxsRgc hZ12hV Nus nIhUb" 7b 7b 13
+324 P12 (2a) "Qz8b 19OENc ne3iTC GIQplJ lckdkF cMPcnz p7UD2H pSm1" 13a 13a 8
+325 P12 (2a) "l0eS ubw35a X6MF1D Nh7 x48Rt NCP L8I 3sn dZCG2" 13a 13a 9
+326 P12 (2a) "c74D4 m3602 Lsf9n6 mKJhC 1QnO" 15 15 5
+327 P12 (2a) "uOxxTR 9XFl RMoxuN 0qMlU KaN 4sWyrq Lx5 tt2cgS 3G8g g49USa kpG7u KqijH" 12 12 12
+328 P12 (2b) "r5U nwkY fuKz rxuym HJJ ZmNay dX0 v0uVX0" 8b 8b 8
+329 P12 (2b) "U2Q WRVFPm MBqo 2mXn rICsjr xOoZZW nCoszm WgQOXz Fl9 wwa WD0 5FtwiC PnVlR 8gOvr1 KyK AvGu jFCF Jwq bDQgg" 13a 13a 19
+330 P12 (2b) "yw0Kmp g8bMyr Dlg2 y7CujU sD4d JkF 8sc2fK KfMe2 Dyhd i0yc Tp9A xYa cXw9z4 gSKzXU" 1 1 14
+331 P12 (2b) "55d0J XNGJG B2I 8yhd 7dZK6C 1sNWH kqO iPJN REXnR 3BjeA EzmJz OsLTl IwXF8" 13b 13b 13
+332 P12 (2b) "K0Qekn zuA z6hZCy yBam rZPS GBhAS QLG J4kg gcqGbH pWQlA" 10 10 10
+333 P12 (2b) "Agd4 JUzOG otB BHob Etd G6TJ WUa3c8 vxI GqGRi CVnYc4 0KK 9abRbQ" 11 11 12
+334 P12 (2b) "xZN6c a5SmX BH92q GpEDPh 5HspG vGQM F1y 5f7k xlaDu WsBE rD1Lv bNQN IoVs9 jKXLAo qTyM hNaL yg5 nDd wFUCne" 13a 13a 19
+335 P12 (2b) "GDV 8vrz n33 rQipo 5ygS r3b qERr6 rTy ngO 9uWNHJ sG7h6" 13a 13a 11
+336 P12 (2b) "RphLw KW8Az KEwDvf qbeNRx 0YGj4 KaEUs DmX K4l zwN785 GWi4e Eyrd tKDcAG Rq3zc1 NXuH FMMSI5" 15 15 15
+337 P12 (2b) "YSNiD0 Y6f tOS BaQF p0U99 QF2kFD 8KCPrp FmdU3L uuJgw9" 13a 13a 9
+338 P12 (2b) "ntN 5LQAt WJaFet oAoQL6 92hXpO pBcl 58KHF dXktJe" 13a 13a 8
+339 P12 (2b) "l4TW 4xEbX4 EP5S 3bvg2G Yzf 46nqQ7 GUXM gRbE" 13a 3 8
+340 P12 (2b) "iAT 7Pgc GB1HsK j43BK0 fuxj" 12 1 5
+341 P12 (2c) "w8N OUPXt 8r3Q 2eqbGD p6cj dCbNw mzB2 y7f0 zcfw c0e3OP raDAQt s79 9Yywn cO6c" 13b 13b 14
+342 P12 (2c) "nHlpy FaEA eJCUN rGolml Bu9J vAMe oa7ZYE hnFq" 13b 13b 8
+343 P12 (2c) "cgQZb eyL 4w1i zJ4jx 1M0ZS d51 HIXkRD daOg ua86B8 wIs9N ZCJeBq" 10 10 11
+344 P12 (2c) "FMndJh FUrU 7RrK7 0XEM9H sSU5A 074HvQ 2w8A TcLE Axu1" 13a 13a 9
+345 P12 (2c) "n3Mua 3IbbtG uV7Mg6 osa dyJw S1ti kM9J7B" 13a 13a 7
+346 P12 (2c) "Za4 PbzQB owEJ4 T7s 0Ty MjXu 8wJDoY 3Jd 3lM tVT VfxneI KBhZjF" 13a 13a 12
+347 P12 (2c) "GRL0i XLZgi ghP EiR0A VYr uvju6 SMLkm5 9mFsN" 9 9 8
+348 P12 (2c) "udqkt xBg2 ProjvP sYK8Y Of5hRp 8JHRa AIU XS5 5zC iwBO" 13a 13a 10
+349 P12 (2c) "CMuD 1Rvn OEZ8rK 3qFJy" 13a 7a 4

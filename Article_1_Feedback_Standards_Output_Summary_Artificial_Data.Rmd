@@ -1,0 +1,210 @@
+---
+title: "Effects of Diagram Standards on Students' Monitoring Accuracy and Text Comprehension - Printed Summary of Analyses for Study 1 and 2"
+author: "Sophia"
+date: '`r Sys.Date()`'
+output: 
+  rmdformats::html_clean
+---
+
+```{r setup, include=FALSE}
+
+## !! COLLAPSE ALL LINES TO BETTER NAVIGATE THIS SCRIPT !!
+## (Edit->Folding->Collapse All / alt+cmd+o/ Ctrl+Alt+o)
+
+knitr::opts_chunk$set(echo = FALSE) # To not print code anywhere
+
+```
+
+```{r source analysis script study 1, include=FALSE}
+## Source script of performance data analysis/Study 1
+source("Scripts/Scripts_Data_Analyses/Analysis_Gorilla_Performance_Data_Study_1-2.R", local = knitr::knit_global())
+# (Source the scrips in two different chuncks to get proper status notifications while knitting)
+```
+
+```{r source analysis script study 2, include=FALSE}
+## Source script of eye-tracking analysis/Study 2
+source("Scripts/Scripts_Data_Analyses/Analysis_Eye_Tracking_Data.R", local = knitr::knit_global())
+```
+  
+# Study 1 - Methods
+
+## Participants, Design, Time On Task & Inter-Rater-Reliability of Measures
+
+```{r descriptives and irr study 1, echo=FALSE, message=FALSE}
+desc_age_sample_exp_1_n_80
+
+n_gender_sample_exp_1_n_80
+
+desc_age_sample_exp_1_n_79
+
+n_gender_sample_exp_1_n_79
+
+desc_conditions
+
+all_IRRs
+```
+  
+  
+# Study 1 - Results
+## *Descriptives Statistics*
+```{r result descriptives study 1, include=TRUE, echo=FALSE, message=FALSE}
+## Print all descriptives per pooled factor
+desc_pooled_factors
+
+jols_below_equal_one_study_1_perc <- unname(jols_below_equal_one_study_1_perc)
+  
+```
+  
+`r jols_below_equal_one_study_1_perc`% of participants' judgements of learning differed ≤ 1 point from their actual test scores (i.e., absolute monitoring accuracy ≤ 1 in `r jols_below_equal_one_study_1_perc`% of the cases).
+
+
+## *Monitoring Accuracy*
+  
+### *With Pooled Factors as Predictors*  
+
+```{r ML analyses MA pooled factors exp1, echo=FALSE, message=FALSE}
+abs_MA_models
+```
+
+The model with the interaction `r  p_model_comparison_MA_pooled_fac[1]` significantly more variance compared to the model fitting only main effects `r p_model_comparison_MA_pooled_fac[2]`.  
+
+### *With Conditions as Predictors*
+```{r ML analyses MA conditions exp1, echo=FALSE, message=FALSE}
+abs_mon_acc_conditions_mod
+```
+
+### *Pairwise Comparisons* 
+```{r pairwise comparisons MA exp1, echo=FALSE, message=FALSE}
+## Absolute Monitoring Accuracy
+emm_MA
+```
+
+## *Relative Monitoring Accuracy*
+```{r ML analyses relative MA pooled factors exp1, echo=FALSE, message=FALSE}
+rel_acc_models
+```
+The model with the interaction `r  p_model_comparison_rel_MA[1]` significantly more variance compared to the model fitting only main effects _p_ `r p_model_comparison_rel_MA[2]`. 
+
+## *Text Comprehension* 
+### *With Pooled Factors as Predictors*
+```{r ML analyses TC pooled factors exp1, echo=FALSE, message=FALSE}
+test_models
+```
+
+The model with the interaction `r  p_model_comparison_test_pooled_fac[1]` significantly more variance compared to the model fitting only main effects `r p_model_comparison_test_pooled_fac[2]`.  
+
+### *With Conditions as Predictors*
+```{r ML analyses TC conditions exp1, echo=FALSE, message=FALSE}
+test_conditions_mod
+```
+
+### *Pairwise comparisons* 
+```{r pairwise comparisons TC exp1, echo=FALSE, message=FALSE}
+emm_test
+```
+
+## *Judgements of Learning*
+```{r JOL analysis, echo=FALSE, message=FALSE}
+## Multilevel model
+jol_tab_model
+
+## Interaction Plot 
+jol_interaction_plot
+```
+The model with the interaction `r  p_jol_model_comparison[1]` significantly more variance compared to the model fitting only main effects `r p_jol_model_comparison[2]`. 
+
+### *Pairwise Comparisons*
+```{r JOL pairwise comparisons, echo=FALSE, message=FALSE}
+emm_JOL
+```
+
+```{r eye-tracking analysis article 1, include=FALSE}
+#source("Scripts/Scripts_DataAnalyses/DataAnalysis-EyeTrackingData.R", local = knitr::knit_global())
+
+# or sys.source("your-script.R", envir = knitr::knit_global())
+```
+
+# Study 2 - Methods
+
+##  Participants, Data Exclusion, Inter-Rate-Reliabilities & Reported Gaze Deviation
+
+```{r Participants, Data Exclusion and Measures exp2, echo=FALSE, message=FALSE}
+## Sample Descriptives
+desc_age_sample_study_2
+n_gender_sample_study_2
+
+## Exclusion of Data
+exclusion_overview
+
+## IRR for segments
+all_segment_IRRs %>% footnote(general = kappas_coded_segments, general_title = "")
+
+```
+  \
+
+Accuracy reported by the eye-tracker software was *M* = `r mean_accuracy_eye_tracker$Mean` (`r mean_accuracy_eye_tracker$SD`).  \
+    
+# Study 2 - Results
+## *Descriptives Fixations*
+```{r Descriptives Fixations Cue+Diagram Types, echo=FALSE, message=FALSE}
+## Fixation Durations Single Boxes, Per Cue Type, Percent 
+fixation_descriptives 
+
+## Little word count table
+word_count_table_kbl
+```
+
+Participants wrote on average `r word_count_table$Mean[grepl("Own", word_count_table$Diagram_Type)] - word_count_table$Mean[grepl("Standard", word_count_table$Diagram_Type)]` words more in a box of their own diagram compared to words in a box of the standard.
+
+
+## *Analysis Fixation Durations* 
+```{r ML average fixation durations, echo=FALSE, message=FALSE}
+# Fixation Durations Single Boxes, Per Cue Type in seconds
+fixation_duration_output
+```
+
+### *Pairwise comparisons*
+```{r pairwise comparisons fixation durations, echo=FALSE, message=FALSE}
+# Pairwise comparisons average fixation durations
+fixation_duration_mod_emm 
+```
+
+## *Transition Table* 
+```{r transition table of fixations, echo=FALSE, message=FALSE}
+transition_frame_2_print
+```
+
+Participants made between `r desc_transitions$Min` and `r desc_transitions$Max` fixation transitions throughout the study, ( _M_  = `r desc_transitions$Mean`, _SD_ = `r gsub("[()]", "", desc_transitions$SD)`).
+
+## *Cued Retrospective Verbal Reports*
+```{r table of coded segments-utterances, echo=FALSE, message=FALSE}
+## Table Cued-Retrospective Reports
+segment_summary
+```
+
+The total number of coded segments was `r as.numeric(total_n_segments)`, with `r as.numeric(total_jol_segments)` voiced during the JOL screen.
+
+## *Cue Values, Cue Diagnosticity and Cue Utilization* 
+### *Study 1 and 2*
+```{r Cue Values Diagnosticity Utilization , echo=FALSE, message=FALSE}
+desc_Cues
+```
+### *Differences between conditions of Study 1*
+```{r test differences of cue values etc between conditions of Exp1, echo=FALSE, message=FALSE}
+cue_value_summary_study_1
+cue_diag_summary_study_1
+cue_util_summary_study_1
+```
+For completeness: the adjusted p-values for multiple testing for the cue values were `r cue_values_study_1_adjusted_p` and for the cue diagnosticities and cue utilizations `r cue_corrs_adjusted_p_study_1`.
+
+
+### *Differences between Study 1 and 2*
+```{r test differences of cue values etc between experiments, echo=FALSE, message=FALSE}
+cue_value_summary
+cue_diag_summary
+cue_util_summary
+```
+For completeness: the adjusted p-values for multiple testing for the cue values were `r cue_values_adjusted_p` and for the cue diagnosticities and cue utilizations `r cue_corrs_adjusted_p`.
+
+...
+
