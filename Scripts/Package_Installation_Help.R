@@ -12,21 +12,7 @@ list_of_packages <- c("base64enc", "digest", "evaluate", "glue",
                       "magrittr", "markdown", "mime", "rmarkdown", 
                       "stringi", "stringr", "xfun", "yaml", 
                       "rmdformats", # Until here, all required for knitting the output with RMarkdown
-                      "tidyverse",  # for dplyr with distinct, filter, %>%, and many more
-                      "data.table", # for fread (reading in files with different dim)
-                      "irr",        # for calculating the inter-rater reliabilities 
-                      "tibble",     # to add a column at a specific position
-                      "lubridate",  # to convert the time and date variable
-                      "Hmisc",      # for gamma correlations
-                      "REdaS",      # to transform radian in degrees of visual angle  
-                      "lme4",       # for ML models
-                      "lmerTest",   # for p values with lmer
-                      "sjstats",    # for partial eta squared & Cohen's effect size 
-                      "sjPlot",     # for printing lmer HTML tables 
-                      "emmeans",    # for pairwise comparisons and effect sizes etc.
-                      "pbkrtest",   # for p-correction of multiple comparisons with emmeans
-                      "kableExtra", # for kable/HTML tables
-                      "vroom"      # for reading in the raw data files
+                      "tidyverse"  # for dplyr with distinct, filter, %>%, and many more
                       ) 
 
 # List of relevant packages
