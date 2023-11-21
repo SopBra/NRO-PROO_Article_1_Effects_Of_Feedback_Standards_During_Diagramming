@@ -1,54 +1,53 @@
-# Data Processing of the Article: The Role of Feedback on Students’ Diagramming: Effects on Monitoring Accuracy and Text Comprehension
+---
+title: "Data Processing of the Article: The Role of Feedback on Students’ Diagramming: Effects on Monitoring Accuracy and Text Comprehension"
+author: "Sophia"
+output: html_document
+---
+
+## Introduction  
 
 This R project reflects the data cleaning and analyses of the article
 _The Role of Feedback on Students’ Diagramming: Effects on Monitoring Accuracy and Text Comprehension:_ https://doi.org/10.1016/j.cedpsych.2023.102251
 
-A snapshot of this project at time of first publication (November 2023) can be found here: 
+<b>Disclaimer and WARNING:</b>
+This project is set-up in such a way that people without any programming background can understand and make use of the R scripts. The scripts are partly VERY long (think about 1500 lines of code).  
+<b>I strongly recommend</b> folding the code to make navigation easier by:  
+Navigating to Edit->Folding->Collapse All or, depending on the system you are using, with the shortcuts: alt+cmd+o or ctrl+alt+o
 
-This project will undergo maintenance (e.g., updating used packages) and improvements based on feedback. 
-We cannot publish the real data that is reported in the article, however we created artificial data sets imitating the variables and observation patterns of the real data 
-(see Scripts/Create_Artificial_Data.R to see how this was done) and saved an output file generated using our real data in this project: Article_1_Feedback_Standards_Output_Summary_Real_Data.html (in the main directory). 
+![ ](Documentation/R_script_navigation.png)
 
-The article corresponding to this project reports on two studies, the project structure is aligned by referring to Study 1: Performance Data, and Study 2: Eye-Tracking Data (see the article for more details).
+
+For a more elaborate documentation, see Documentation.Rmd in the Documentation folder.
 
 ## Usage                      
 
-All scripts were written in such a way that folding the code will make navigation easier. R code can be (un-)folded by navigating to Edit->Folding->Collapse All 
-or, depending on the system you are using, with the shortcuts: alt+cmd+o or Ctrl+Alt+o
+### Less Experienced User:
 
-### Bundled and Formatted Output of Both Studies/Analysis Scripts
-If you want to get a bundled, formatted overview of the output the two analysis scripts are generating, you can 'knit' the output summary in the main directory ("Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rmd).
-If you never used RMarkdown or knitted an RMarkdown file a very long time ago:
- --> Please run the Script "Package_Installation_Help.R" in the Script folder first. 
-    This will update or install all relevant packages needed to render the RMarkdown file.
+   - Navigate to the Scripts folder and open + run the 'Package_Installation_Help.R' script   
+   
+You can then either
 
-Package existence and version is checked within the different scripts, so 
-you do not need to run the "Package_Installation_Help.R" script if:
- - 1. you only want to run the analyses scripts separately OR
- - 2. you want to/are able to run the analyses scripts before running the output summary, 
- - 3. you are comfortable with installing packages once you see a respective error message
+   - Open 'Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rmd' in the main directory and click 'knit'
+   - Open and run any of the scripts located in the Scripts folder
 
-### The Single Scripts
-The data cleaning scripts are stored at Scripts/Scripts_Data_Cleaning and divided for the performance data (Study 1) and the eye-tracking/cued retrospective verbal reporting data (Study 2). The output of these scripts is not incorporated in the bundled output and is also not formatted.
-The data analysis scripts can be found at Scripts/Scripts_Data_Analyses, again divided for Study 1 and Study 2 (both scripts are loaded/run with the bundled output generation).
+### Experienced User:
+
+  - You should be able to run all scripts (in /Scripts/) without pre-installing packages, this will be handled in the first part of each script (if the packages are not yet installed on your system).  
+  - To knit the formatted output 'Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rmd' in the main directory, you will need to install 'rmdformats' first. 
+
+```{r rmdformat installation, eval= FALSE}
+install.packages("rmdformats")
+```
+
+If you do not use RMardown frequently, please run the 'Package_Installation_Help.R' in the Scripts folder first.
 
 ## Help                       
-If you need help with using this script, please don't hesitate to contact me (using Github or finding my current email-address online searching for Sophia Braumann ;)
+If you need help with using this project or any of the scripts, please don't hesitate to contact me (using Github or sophiabraumann@gmail.com)
 
 ## Feedback and Contributing  
 If you have suggestions for improvements (and you are not comfortable with creating an Issue), please don't hesitate to contact me via Github or email.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## Roadmap                    
-
-This is the first of four articles related to the effects of different kinds of feedback during a causal diagramming task to improve judgements of (and) text comprehension after reading. Links to the other articles and R projects will be updated upon publication of the research articles.
-
-## Authors and acknowledgment 
-
-Next to my special thanks to all co-authors and people helping with coding, establishing inter-rater-reliabilities (see published article for all names), and all the people who helped piloting the studies, I would also like to thank the Research Data Management Support of the University of Utrecht, especially Jelle Treep and Neha Moopen, who helped with checking and publishing this R project.
 
 ## License                    
 
