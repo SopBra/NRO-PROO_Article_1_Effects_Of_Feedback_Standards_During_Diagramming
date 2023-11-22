@@ -1,7 +1,11 @@
 ---
 title: "Data Processing of the Article: The Role of Feedback on Students’ Diagramming: Effects on Monitoring Accuracy and Text Comprehension"
 author: "Sophia"
-output: html_document
+output:
+  html_document:
+    theme: null
+    html_vignette: default
+    prettydoc::html_pretty: default
 ---
 
 ## Introduction  
@@ -16,9 +20,9 @@ For a more elaborate documentation, see Documentation.Rmd in the Documentation f
 
 ### Less Experienced User:
 
-   - Navigate to the Code button and download the ZIP folder
-   
-   - Open the file called '0_PROO_Article_1_Feedback_Standards.Rproj'
+   - Open the project using Rstudio by selecting <b>file</b> -> <b>new project</b> -> <b>version control</b> -> <b>git</b> and enter https://github.com/SopBra/NRO-PROO_Article_1_Effects_Of_Feedback_Standards_During_Diagramming
+
+(Choose where you would like to store the project folder).
 
 <b>To inspect the single data cleaning and analysis scripts:</b>
 
@@ -40,14 +44,16 @@ For a more elaborate documentation, see Documentation.Rmd in the Documentation f
 ### Disclaimer and WARNING:
 This project is set-up in such a way that people without any programming background can understand and make use of the R scripts. The scripts are partly VERY long (think about 1500 lines of code).  
 <b>I strongly recommend</b> folding the code to make navigation easier by:  
+
  -  <b>Navigating to Edit->Folding->Collapse All</b> or, 
+ 
  -  depending on the system you are using, with the <b>shortcuts: alt+cmd+o</b> or <b>ctrl+alt+o</b>
 
 ![ ](Documentation/R_script_navigation.png)
 
 
 ## Help                       
-If you need help with using this project or any of the scripts, please don't hesitate to contact me (using Github or sophiabraumann@gmail.com)
+If you need help with using this project or any of the scripts, please don't hesitate to contact me (using Github or contacting me via email (find the address by searching for my name online, or navigate to the second/third version of this file ;)
 
 ## Feedback and Contributing  
 If you have suggestions for improvements (and you are not comfortable with creating an Issue), please don't hesitate to contact me via Github or email.
