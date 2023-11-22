@@ -10,9 +10,23 @@
 list_of_packages <- c("base64enc", "digest", "evaluate", "glue", 
                       "highr", "htmltools", "jsonlite", "knitr", 
                       "magrittr", "markdown", "mime", "rmarkdown", 
-                      "stringi", "stringr", "xfun", "yaml", 
+                      "stringi", "xfun", "yaml", 
                       "rmdformats", # Until here, all required for knitting the output with RMarkdown
-                      "tidyverse"  # for dplyr with distinct, filter, %>%, and many more
+                      "tidyverse",  # for dplyr with distinct, filter, %>%, and many more
+                      "data.table", # for fread (reading in files with different dim)
+                      "irr",        # for calculating the inter-rater reliabilities 
+                      "tibble",     # to add a column at a specific position
+                      "lubridate",  # to convert the time and date variable
+                      "REdaS",      # to transform radian in degrees of visual angle 
+                      "stringr",    # for string processing (word count, detect, replace, etc.)
+                      "lme4",       # for ML models
+                      "lmerTest",   # for p values with lmer
+                      "sjstats",    # for partial eta squared & cohens effect size 
+                      "sjPlot",     # for printing lmer HTML tables 
+                      "emmeans",    # for pairwise comparisons and effect sizes etc.
+                      "pbkrtest",   # for p-correction of multiple comparisons with emmeans
+                      "kableExtra",  # for kable/HTML tables
+                      "Hmisc"      # for gamma correlations
                       ) 
 
 # List of relevant packages
@@ -29,7 +43,7 @@ session_info_user <- sessionInfo()
 ## Compare the R versions
 r_version_user <- session_info_user$R.version$version.string
 # The author used R version 4.3.0, check if the user uses the same version
-paste0(ifelse(grepl('4.3.0', r_version_user),
+paste0(ifelse(grepl('4.3.1', r_version_user),
               'You are using the same version of R under which this script was created. You are good to go :)',
               'You are using a different version of R than the one under which this script was created. 
               Please report malfunctioning of the script based on outdated packages/functions'))
