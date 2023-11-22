@@ -15,6 +15,9 @@ For a more elaborate documentation, see Documentation.Rmd in the Documentation f
 ## Usage                      
 
 ### Less Experienced User:
+
+   - Navigate to the Code button and download the ZIP folder
+   
    - Open the file called '0_PROO_Article_1_Feedback_Standards.Rproj'
 
 <b>To inspect the single data cleaning and analysis scripts:</b>
