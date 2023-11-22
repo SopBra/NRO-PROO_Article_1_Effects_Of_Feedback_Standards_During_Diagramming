@@ -2,10 +2,7 @@
 title: "Data Processing of the Article: The Role of Feedback on Students’ Diagramming: Effects on Monitoring Accuracy and Text Comprehension"
 author: "Sophia"
 output:
-  html_document:
-    theme: null
-    html_vignette: default
-    prettydoc::html_pretty: default
+  html_document
 ---
 
 ## Introduction  
