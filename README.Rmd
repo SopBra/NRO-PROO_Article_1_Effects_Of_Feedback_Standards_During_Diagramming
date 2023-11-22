@@ -7,14 +7,7 @@ output: html_document
 ## Introduction  
 
 This R project reflects the data cleaning and analyses of the article
-_The Role of Feedback on Students’ Diagramming: Effects on Monitoring Accuracy and Text Comprehension:_ https://doi.org/10.1016/j.cedpsych.2023.102251
-
-<b>Disclaimer and WARNING:</b>
-This project is set-up in such a way that people without any programming background can understand and make use of the R scripts. The scripts are partly VERY long (think about 1500 lines of code).  
-<b>I strongly recommend</b> folding the code to make navigation easier by:  
-Navigating to Edit->Folding->Collapse All or, depending on the system you are using, with the shortcuts: alt+cmd+o or ctrl+alt+o
-
-![ ](Documentation/R_script_navigation.png)
+_The Role of Feedback on Students’ Diagramming: Effects on Monitoring Accuracy and Text Comprehension:_ https://doi.org/10.1016/j.cedpsych.2023.102251  
 
 
 For a more elaborate documentation, see Documentation.Rmd in the Documentation folder.
@@ -22,24 +15,33 @@ For a more elaborate documentation, see Documentation.Rmd in the Documentation f
 ## Usage                      
 
 ### Less Experienced User:
+   - Open the file called '0_PROO_Article_1_Feedback_Standards.Rproj'
 
-   - Navigate to the Scripts folder and open + run the 'Package_Installation_Help.R' script   
+<b>To inspect the single data cleaning and analysis scripts:</b>
+
+   - Open (via the files tab in RStudio) any of the scripts located in the Scripts folder, (select the whole script) and click Run
+
+<b>To directly inspect the formatted output file of the analysis script:</b>
+
+   - Open (via the files tab in RStudio) the Scripts folder and open + run the 'Package_Installation_Help.R' script
+   - Open (via the files tab in RStudio) 'Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rmd' in the main directory and click 'knit'
    
-You can then either
-
-   - Open 'Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rmd' in the main directory and click 'knit'
-   - Open and run any of the scripts located in the Scripts folder
 
 ### Experienced User:
 
   - You should be able to run all scripts (in /Scripts/) without pre-installing packages, this will be handled in the first part of each script (if the packages are not yet installed on your system).  
-  - To knit the formatted output 'Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rmd' in the main directory, you will need to install 'rmdformats' first. 
+  - To knit the formatted output 'Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rmd' in the main directory, you will need to 
+      -  run the two analysis scripts in Scripts/Scripts_Data_Analyses first, <b>OR</b>
+      -  run the Package_Installation_Help.R in Scripts/ first.
 
-```{r rmdformat installation, eval= FALSE}
-install.packages("rmdformats")
-```
+### Disclaimer and WARNING:
+This project is set-up in such a way that people without any programming background can understand and make use of the R scripts. The scripts are partly VERY long (think about 1500 lines of code).  
+<b>I strongly recommend</b> folding the code to make navigation easier by:  
+ -  <b>Navigating to Edit->Folding->Collapse All</b> or, 
+ -  depending on the system you are using, with the <b>shortcuts: alt+cmd+o</b> or <b>ctrl+alt+o</b>
 
-If you do not use RMardown frequently, please run the 'Package_Installation_Help.R' in the Scripts folder first.
+![ ](Documentation/R_script_navigation.png)
+
 
 ## Help                       
 If you need help with using this project or any of the scripts, please don't hesitate to contact me (using Github or sophiabraumann@gmail.com)
