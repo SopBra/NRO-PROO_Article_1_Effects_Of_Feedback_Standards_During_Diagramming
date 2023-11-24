@@ -4,6 +4,7 @@ This R project reflects the data cleaning and analyses of the article
 _The Role of Feedback on Students’ Diagramming: Effects on Monitoring Accuracy and Text Comprehension:_ https://doi.org/10.1016/j.cedpsych.2023.102251
 
 A snapshot of this project at time of first publication (November 2023) can be found here: 
+[![DOI](https://zenodo.org/badge/719480492.svg)](https://zenodo.org/doi/10.5281/zenodo.10204077)
 
 This project will undergo maintenance (e.g., updating used packages) and improvements based on feedback. 
 We cannot publish the real data that is reported in the article, however we created artificial data sets imitating the variables and observation patterns of the real data 
