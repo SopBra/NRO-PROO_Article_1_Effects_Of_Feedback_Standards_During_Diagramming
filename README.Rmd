@@ -40,7 +40,7 @@ For a more elaborate documentation, see Documentation.Rmd in the Documentation f
    - Open the Scripts folder and open + run the 'Package_Installation_Help.R' script
    - Open 'Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rmd' in the main directory and click 'knit'
    
-### When none of the above it applicable to you/you start from scretch:
+### When none of the above it applicable to you/you start from scratch:
 
 0. Install R and RStudio
 1. Go to https://github.com/SopBra/NRO-PROO_Article_1_Effects_Of_Feedback_Standards_During_Diagramming
@@ -53,10 +53,10 @@ For a more elaborate documentation, see Documentation.Rmd in the Documentation f
 5. Press File --> Open project
 6. Choose [the place you liked, for example Desktop] --> Cool_RProject --> 0_PROO_Article_1_Feedback_Standards.Rproj
 7. Press File --> Open File
-8. Choose [the place you liked, for example Desktop] --> Cool_RProject --> Package_Installation_Help.R
+8. Choose [the place you liked, for example Desktop] --> Cool_RProject --> Scripts --> Package_Installation_Help.R
    -  Mark/select the entire script and press Run (alternative: command/cmd + A and then command/cmd + Enter) --> This will make sure you have all the right packages installed
 9. Press File --> Open File  
-10.Choose [the place you liked, for example Desktop] --> Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rdm  
+10.Choose [the place you liked, for example Desktop] --> Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rmd  
 11.Press Knit --> This will generate the output as presented in the paper
 
 
@@ -71,7 +71,7 @@ For a more elaborate documentation, see Documentation.Rmd in the Documentation f
 8. Choose C:&#92;Cool_RProject&#92;Scripts&#92;Package_Installation_Help.R
    -  Mark/select the entire script and press Run (alternative: CTRL + Enter) --> This will make sure you have all the right packages installed
 9. Press File --> Open File  
-10.Choose C:&#92;Cool_RProject&#92;Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rdm  
+10.Choose C:&#92;Cool_RProject&#92;Article_1_Feedback_Standards_Output_Summary_Artificial_Data.Rmd  
 11.Press Knit (alternative: CTRL + SHIFT + K) --> This will generate the output as presented in the paper
 
 
