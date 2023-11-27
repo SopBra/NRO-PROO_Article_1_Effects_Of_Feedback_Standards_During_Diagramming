@@ -718,18 +718,20 @@ desc_row_per_diagram_type_with_dummy_0s <- row_per_diagram_Type_with_dummy_0s %>
 data_4_transition_seeking <- row_per_fixation_data 
 #  For some reason, Index_Right is coded as character now. 
 #  Transform back to numeric for the subsequent computations
+#  (Each fixation that was counted as seperate fixation -> see definition/criteria 
+#   has an own index --> Index_Right).
 data_4_transition_seeking$Index_Right <- as.numeric(data_4_transition_seeking$Index_Right)
 
 ## Explanation of the following part:
 #  A transition counts as a transition if:
 #  1. (fixationIndex_n - 1 ) + 1 = fixationIndex_n, 
-#     which means the fixation indecies are a direct sequence (e.g., 2,3 vs. 5,7)
+#     which means the fixation indices are a direct sequence (e.g., 2,3 vs. 5,7)
 #  2. AOI_Name_n - 1 != AOI_Name_n, 
 #     which means that the directly following fixations are not in the same AOI_Name
 ## n - 1 is accomplished with lag(), so step 2 here would be lag(AOI_Name) != AOI_Name
 ## General overview
 #  1. Between Diagrams
-#    a. Correct2Standard (and vice verca)
+#    a. Correct2Standard (and vice versa)
 #      i)   Matching Position
 #      ii)  Matching Content
 #      iii) Both
