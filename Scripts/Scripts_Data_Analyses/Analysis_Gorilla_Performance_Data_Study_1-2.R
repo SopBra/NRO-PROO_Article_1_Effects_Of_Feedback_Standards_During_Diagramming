@@ -23,6 +23,7 @@ list_of_packages <- c("tidyverse",  # distinct, filter, %>%, and many more,
                       "irr",        # for the inter-rater-reliabilities
                       "data.table", # for fread (reading in files with different dim)
                       "Hmisc",      # for gamma correlations
+                      "Matrix",     # for lmer models
                       "lme4",       # for ML models
                       "lmerTest",   # for p values with lmer
                       "sjstats",    # partial eta squared and cohens effect size in repeated masures ML

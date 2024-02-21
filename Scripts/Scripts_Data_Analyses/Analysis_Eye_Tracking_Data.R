@@ -18,6 +18,7 @@ list_packages <- c("tidyverse",  # distinct, filter, %>%, and many more
                    "lubridate",  # to convert the time and date variable
                    "REdaS",      # to transform radian in degrees of visual angle 
                    "stringr",    # for string processing (word count, detect, replace, etc.)
+                   "Matrix",     # for lmer models
                    "lme4",       # for ML models
                    "lmerTest",   # for p values with lmer
                    "sjstats",    # for partial eta squared & cohens effect size 
